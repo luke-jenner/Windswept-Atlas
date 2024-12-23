@@ -31,6 +31,6 @@ Most elite forces of the stratioa, the so-called wolves contend with threats tha
 **Kidemai**
 The watchers are the guardians of the Lacadaemon who protect the fortress from invaders and maintain order within its walls. 
 
-### [[Volamtar\|Volamtar]] (Blazers of Fresh Trails)
+### [[Factions/Volamtar\|Volamtar]] (Blazers of Fresh Trails)
 
 Prominent spellcasters, the Volamtar are a sect of wayfaring priests and rangers who revere nature spirits and who inhabit fiery rifts in the mountains. While the original Volamtar have been around since the First Age, during the Second Age many dwarves that were followers of [Marthammor Duin](https://forgottenrealms.fandom.com/wiki/Marthammor_Duin) found camaraderie and common life with the Volamtar, and since the tradition has upheld many mountain traditions. The ancient practices are viewed as primitive but powerful, and Emberhold citizens of any background might risk making a pilgrimage into the mountains to hear a Volamtar prophecy.**

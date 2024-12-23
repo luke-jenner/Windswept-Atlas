@@ -4,7 +4,7 @@
 
 **Taitaro Saviel**
 ![lukejenner_character_art_of_a_young_kitsune_wizard_orange_and_w_823e76d7-a835-4bee-b219-3f4bdafad09a.png|325](/img/user/Images/lukejenner_character_art_of_a_young_kitsune_wizard_orange_and_w_823e76d7-a835-4bee-b219-3f4bdafad09a.png)
-Working for [[The Sounding Fury\|The Sounding Fury]], studying [[Astromancy\|Astromancy]]
+Working for [[Factions/The Sounding Fury\|The Sounding Fury]], studying [[World Lore/Astromancy\|Astromancy]]
 
 Neutral good kitsune - young, ambitious, aspiring astromancer - practices good mental health and wizardry via divination - studies and does tarot readings 
   
@@ -12,7 +12,7 @@ Learning from Ilican Flontoros, an elven astromancer that has hired The Fury to 
 
 Has had [[Constellation Prophecies\|Constellation Prophecies]] of [[VFD Reclaimers\|VFD Reclaimers]]
 
-Close friends with [[Phoebe\|Phoebe]]
+Close friends with [[NPCs/Phoebe\|Phoebe]]
 
 ### Letter to Glint
 

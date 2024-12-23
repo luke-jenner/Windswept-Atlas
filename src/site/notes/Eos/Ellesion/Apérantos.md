@@ -9,7 +9,7 @@ In the century or more of the Third Age, many smaller settlements have begun dev
 
 Leonin, Sylithian, Harengon, Kitsune, Grung, Firbolg, Lizardfolk, Minotaurs, Tabaxi, Tortle, Bugbears, Centaurs, Dragonborn - occasional Giff. 
 
-Many practitioners of [[Primal Magic\|Primal Magic]]
+Many practitioners of [[World Lore/Primordials/Primal Magic\|Primal Magic]]
 
 ### Description
 
@@ -77,7 +77,7 @@ Of the Amber Thicket, creates unique potions using local flora. He's animated an
 Tends to the gardens, deep connection to nature. Does worship The Wildmother, though sees her as a friend and not a god. Knows she's a daughter of Gaia, who is the earth itself. 
 
 #### Skyshell - Tortle Stargazer 
-Wise tortle, spends his days observing stars and celestial bodies. Friends of Atlas [[Astromancy\|Astromancy]] - can clue in his direction. People of the Celestial Plateau. Helps coordinate seasonal needs, predict natural phenomena. Works with:
+Wise tortle, spends his days observing stars and celestial bodies. Friends of Atlas [[World Lore/Astromancy\|Astromancy]] - can clue in his direction. People of the Celestial Plateau. Helps coordinate seasonal needs, predict natural phenomena. Works with:
 
 #### Thundertusk, Bugbear Windrider
 Bugbear skilled in navigating skies with a glider. Known for his daring acrobatics, performances in festivals. Works with the Sun Scouts. 
@@ -110,7 +110,7 @@ Roundhouses, suitable for up to 10 people each - mudbrick & grass buildings, som
 
 You will not find temples in Apérantos - those places of power are sacred. This city was built on what was once a temple, though our ancestors learned reverence of sacred spaces and kept them secret. Certain pilgrimages are granted upon initiates, others are found by the self-initiate - one destined for communion with the primal powers. It is not available for conquest.
 
-Shamans in the community serve as priests - many a retired elder share wisdom with prides and peoples. They are the ones who pierce the veil of the planes, contact spirits, and bring back into the material plane vital wisdom. [[Primal Magic\|Primal Magic]]
+Shamans in the community serve as priests - many a retired elder share wisdom with prides and peoples. They are the ones who pierce the veil of the planes, contact spirits, and bring back into the material plane vital wisdom. [[World Lore/Primordials/Primal Magic\|Primal Magic]]
 ### Proí River
 The Morning River, that runs from the Ouranios down to Kathreftis, connecting its waters all the way to the Aluukir. 
 

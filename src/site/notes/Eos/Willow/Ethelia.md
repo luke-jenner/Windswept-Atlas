@@ -109,7 +109,7 @@ Study and wisdom are honored, though held by a high esteem of a gatekeeper. One 
 
 Originally located on the Northwest Bank of Lahrast’Alu, relocated down the magical stream towards the center of the city.
 
-Initial questions will point any outsiders to the building that is now **[[The Map House\|The Map House]]**.
+Initial questions will point any outsiders to the building that is now **[[Factions/The Map House\|The Map House]]**.
 
 At five stories, one of the tallest buildings in the city - almost an omega-horseshoe as it extends up from two enormous, magically twisting oak trees and forms a bridge between them. 
 

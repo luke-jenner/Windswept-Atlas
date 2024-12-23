@@ -9,7 +9,7 @@
   
 *As you watch - a pale mist rises from within the city. It drifts through the gates and breaks over the city walls as if the entire city were exhaling one great breath.*
 
-[[Euicles\|Euicles]]
+[[NPCs/Euicles\|Euicles]]
 
 ### Culture & Rumors
 

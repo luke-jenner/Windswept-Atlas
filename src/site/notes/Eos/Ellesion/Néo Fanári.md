@@ -6,7 +6,7 @@
 ![](https://lh7-us.googleusercontent.com/uGbr8WIzXGEAxvktih7VtgbjYfKyswlncfp_FRTDdulhuaZ68itPVgtbjslv1wE1-vkVwmDHJ2eolISc1L252M3ZpcElykYiY_c1dnTZyveMZSCp39LxPsAduKLGu79bccFFg8r0gtUMefxRDsqIk2M)
 
   
-Rebuilt after its destruction in the Godswar, Néo Fanári is the heir of the mythical city of Fanári, once the shining beacon of the Skliathos. It is known to the Altrinioans as the farthest reaches of the [[Eos/Ellesion/Altrinios\|Altrinios]] coalition, though of all the populations in that coalition, it is the one that has the least feeling of belonging to the city-state - either by distance to [[Eos/Ellesion/Altrinios\|Altrinios]] or by its own history and culture, or by the simple power of the city itself. The city has inherited all the myths and traditions of its predecessor, proud of its past, but promising not to make mistakes of the powerful city-states. The city has created immediate separation of politic and religion, removing all affinity for gods from their citadels. Not indicating neglect towards the gods, the religiosity of the inhabitants is palpable in most houses in the city. Once run by an archpriest of the elven god Correlon, the Arch Heart, the city is now governed by the [[Triarchy\|Triarchy]] - a confluence of leaders from the city’s navy, the city’s engineers, and the city’s artisans. 
+Rebuilt after its destruction in the Godswar, Néo Fanári is the heir of the mythical city of Fanári, once the shining beacon of the Skliathos. It is known to the Altrinioans as the farthest reaches of the [[Eos/Ellesion/Altrinios\|Altrinios]] coalition, though of all the populations in that coalition, it is the one that has the least feeling of belonging to the city-state - either by distance to [[Eos/Ellesion/Altrinios\|Altrinios]] or by its own history and culture, or by the simple power of the city itself. The city has inherited all the myths and traditions of its predecessor, proud of its past, but promising not to make mistakes of the powerful city-states. The city has created immediate separation of politic and religion, removing all affinity for gods from their citadels. Not indicating neglect towards the gods, the religiosity of the inhabitants is palpable in most houses in the city. Once run by an archpriest of the elven god Correlon, the Arch Heart, the city is now governed by the [[Factions/Triarchy\|Triarchy]] - a confluence of leaders from the city’s navy, the city’s engineers, and the city’s artisans. 
 
 While separate in politics from their origins of Corellon, Néo Fanári still has many elves that did not retreat into the Folos Forest, as well as many that immigrated back to Ellesion after The Retreat from Ethelia across the Starfallen Sea. Many of these elves uphold high values of art, music, and craft, while many have set engineering sights on beauty in advancement of technology - over the last 50 years or more, the city has begun building upwards through infrastructural brunestone, becoming a semi-floating city. 
 ### Neighborhoods 
@@ -227,7 +227,7 @@ Findar - dwarf (bitter like Andrew)
 
 ### Néo Fanári Factions
 
-Home of a chapter [[The Sounding Fury\|The Sounding Fury]]
+Home of a chapter [[Factions/The Sounding Fury\|The Sounding Fury]]
 #### Episti Omada  - League of Engineers
 
 Magewrights throught the pipeline of ethereal refinement - from mining to refining to inventing to crafting to infusing to enchanting 

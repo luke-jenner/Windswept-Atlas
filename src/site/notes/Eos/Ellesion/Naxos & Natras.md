@@ -4,7 +4,7 @@
 
 The Lovers
 [[Eos/Ellesion/Ellesion\|Ellesion]]
-**An archipelago - connected to the Ellesion mainland deep beneath the surface, in myth is said to have been created when [[Thassa\|Thassa]]-Istishia wept over the acts of destruction of her first children, Umberlee and Talos. In her distress, Thessa-Istishia formed the two islands that would display all that was beautiful of her realms, and in turn gave birth to the deity of beauty, Sune.
+**An archipelago - connected to the Ellesion mainland deep beneath the surface, in myth is said to have been created when [[World Lore/Primordials/Thassa\|Thassa]]-Istishia wept over the acts of destruction of her first children, Umberlee and Talos. In her distress, Thessa-Istishia formed the two islands that would display all that was beautiful of her realms, and in turn gave birth to the deity of beauty, Sune.
 
 Sune’s history is then mostly told through her various romances and flirtations with other gods - tales exist of her relationships with practically every god except Talos, Umberlee, Tempus, and Kord, whom Sune abhorred for their acts of destruction. 
 

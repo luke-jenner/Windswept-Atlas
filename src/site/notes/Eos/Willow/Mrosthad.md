@@ -44,7 +44,7 @@ Mrosthad doesn’t tax its citizens, though once paid taxes to the Willowan Crow
 - **Fang Island** has no inhabitants, though is known for destroying vessels swept down by Reykyr’s River
 - **Harbor Arm Island** - tall spire sheltering Whitesails Harbor from the worst of storms and waves
 
-[[The Arcane Brotherhood\|The Arcane Brotherhood]] - Five Spired Hosttower of the Arcane. Home to arcanists that once helped cleanse Mrosthad of undead and fought off dragons menacing the city. Swore an oath to keep politics out of the High Captains and the city at large. 
+[[Factions/The Arcane Brotherhood\|The Arcane Brotherhood]] - Five Spired Hosttower of the Arcane. Home to arcanists that once helped cleanse Mrosthad of undead and fought off dragons menacing the city. Swore an oath to keep politics out of the High Captains and the city at large. 
 
 Northern Bank - Open Shore, outside city walls, only place foreign shipping can dock
 - Whitesails Harbor - exclusively for Mrosthad Navy
