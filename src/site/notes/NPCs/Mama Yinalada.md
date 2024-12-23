@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-22T21:08:58.293-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-22T22:15:20.734-06:00"}
 ---
 
 The Dreamless Matron
 
 - 'Mother' to [[Glint\|Glint]]
 - Lives in a walled grove in  [[The Feywild\|The Feywild]]
+- Collects memories and dreams
 
 ### Appearance
 Appearance is both mesmerizing and unsettling
