@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/ble-ramath/","updated":"2024-12-22T23:09:49.850-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/ble-ramath/","updated":"2024-12-23T09:55:49.411-06:00"}
 ---
 
 Sapphire Dragon, 330ish years old
@@ -7,7 +7,7 @@ Sapphire Dragon, 330ish years old
 - Ally & operative of [[Factions/Horizon Guard\|Horizon Guard]]
 - Vested interest in protecting planar boundaries
 - Wants to create a haven for "those that would not fight war, but still come out victorious"
-- Met [[AAA\|AAA]] in Mirtul of 2023 B.R. seeking the [[World Lore/Deep Dream\|Deep Dream]]
+- Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R. seeking the [[World Lore/Deep Dream\|Deep Dream]]
 - Friendly with [[Aetos\|Aetos]]
 - Once helped [[NPCs/Havros Vallisades\|Havros Vallisades]] form The Newfables
 - Keeping tabs on powerful arcane objects stirring, including powers of primordials

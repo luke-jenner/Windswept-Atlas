@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/ioanna/","updated":"2024-12-22T21:43:04.493-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/ioanna/","updated":"2024-12-23T09:56:30.324-06:00"}
 ---
 
 ![Pasted image 20241222213532.png|350](/img/user/Images/Pasted%20image%2020241222213532.png)
 - Celebrated astronomer, teacher, and hero of rebellion in [[Eos/Ellesion/Elpizo\|Elpizo]]
 - Studies [[World Lore/Astromancy\|Astromancy]] at the Firefall Observatory
 - Has a network of Astromancers around Ellesion, Kawluurac, and Willow
-- Met [[AAA\|AAA]] in Mirtul of 2023 B.R., after losing her spirit to an Eater of Hope, likely a result of resentment brought on by Cult of [[World Lore/Primordials/Mnemosyne\|Mnemosyne]]
+- Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R., after losing her spirit to an Eater of Hope, likely a result of resentment brought on by Cult of [[World Lore/Primordials/Mnemosyne\|Mnemosyne]]
 
 
 - 'Awoke as an oracle' a year ago - received cosmological visions

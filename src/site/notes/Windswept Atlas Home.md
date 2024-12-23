@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-22T22:05:05.840-06:00"}
+{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-23T08:21:37.097-06:00"}
 ---
 
 ![Pasted image 20241222220504.png](/img/user/Images/Pasted%20image%2020241222220504.png)
@@ -11,6 +11,7 @@ To navigate, use the side-bar to the left or the search bar above.
 
 - [AAA Player Folder](https://drive.google.com/drive/folders/1h7AzJZ2Wgqt7MVjc8zdvR9h1xCZvnepk?usp=drive_link), including C2 maps, stats, and more.
 - [C2 Campaign Log](https://docs.google.com/document/d/1_FmRM24L4DgybyEMHTODrN5A18BsP9FnoZsTY3IGHLM/edit?usp=drive_link), including linked session recordings. 
+- [[NPCs/*C2 NPC Index\|*C2 NPC Index]], listing NPCs w/ short descriptions.
 - [Copy's Family Player folder](https://drive.google.com/drive/folders/1mF8wWxFuJaVAOGqJOEIQKHgvMx14na_x?usp=drive_link), including C1 maps, stats, and more.
 - [C1 Campaign Log](https://docs.google.com/document/d/1a-_ZANhiTOuuXzRcYax6bL-IIHH1qneu7XWjSAhY0Wg/edit?usp=drive_link), including linked session recordings.
 

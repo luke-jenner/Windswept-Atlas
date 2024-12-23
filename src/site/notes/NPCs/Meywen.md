@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-22T22:48:51.027-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-23T09:57:15.489-06:00"}
 ---
 
 - Half-elven astromancer
 - Apprentice to [[NPCs/Wylydia\|Wylydia]] at the Starlight Sanctuaries in [[Eos/Halios\|Halios]]
-- Met [[AAA\|AAA]] in Mirtul of 2023 B.R., on their arrival to Halios
+- Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R., on their arrival to Halios
 - Currently traveling aboard  [[World Lore/The Moonspear\|The Moonspear]] as researcher
 
 Meywen** - half-elven, likely somewhere between 20 and 35 - indictative of the blend between elven grace and human vigor. Blonde & auburn hair trimmed short, silver eyes. Wears a combo of ethereal fabrics with practical adventuring gear. Carries a satchel of celestial scrolls and a compass that points to the Eternal Comet. 

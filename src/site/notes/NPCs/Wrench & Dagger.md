@@ -8,7 +8,7 @@
 	- 80-HD: Lillibell's steel companion
 	- Vile: Elliwick's son
 - Met [[AAA\|AAA]] in Mirtul of 2023 B.R., aiding in locating [[NPCs/Havros Vallisades\|Havros Vallisades]]
-- Lilli also studied under [[Tellah\|Tellah]], Otto's Mentor
+- Lilli also studied under [[NPCs/Tellah\|Tellah]], Otto's Mentor
 - gave Otto a book on The Skyforge
 - Elli aided [[AAA\|AAA]] in obtaining the [[World Lore/Codex Arcanum\|Codex Arcanum]]
 - Stayed behind to further investigate Villa Newfable
