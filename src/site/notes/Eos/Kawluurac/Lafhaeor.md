@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-22T19:33:58.640-06:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-22T22:31:07.701-06:00"}
 ---
 
 Lost City of Lafhaeor - "Running Water" - name given by Ellesionese settlers in the late 1st age. **Center of Kawluurac's massive river basin.**
@@ -21,8 +21,3 @@ After the Rage of Dragons subsided about 1,000 years ago, it became lair to a bi
 For a period of time afterward, a lich ruled the forgotten city and it became a Necropolis - reaping off the damages from the war between Lafhaeor and Velde Aerdrie. It was during the lich's rule the city was referred to as Lanorn. It took a band of heroes out of Adriziq Ojo to unfurl the plots of the lich and depose it. Though the stains of Lanorn never fully left. 
 
 Since, it became a perilous place many teach their children to avoid - if they teach about it at all. Many an adventurer delve to seek riches or lost artifacts, others have made it bandit guild strongholds that have come and gone. The last 200 or so years you hear stories of power coalescing there that Adriziq Ojo keeps tabs on. You're likely to find errant Shadowcrossings, or temporary bases of aberrations. Thieves guilds. Standard Faire. 
-
-> Worshipped Tethys - after uncovering of temples to tethys during the Skilaic Period, many artifacts made their way south the river waters of Kawluurac, finding the home that Tethys had escaped to from the Crystal Peaks during the Dawnwar until she was sealed 
-
-
-Architecture of city inspired by ancient South American - inkan structures built out of walls of a forested river canyon https://en.m.wikipedia.org/wiki/Inca_architecture

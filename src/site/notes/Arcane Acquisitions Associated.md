@@ -3,7 +3,7 @@
 ---
 
 ![aaa logo 1.png](/img/user/Images/aaa%20logo%201.png)
-An adventuring party founded in 2023 B.R., recognized as active crew of [[The Moonspear\|The Moonspear]]. 
+An adventuring party founded in 2023 B.R., recognized as active crew of [[World Lore/The Moonspear\|The Moonspear]]. 
 
 ### Known Members
 - Glint of Life

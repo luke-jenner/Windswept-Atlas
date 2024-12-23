@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2024-12-22T21:02:15.888-06:00"}
+{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2024-12-22T22:55:15.390-06:00"}
 ---
 
 Vanguard of the Forsworn Deities - 3,000 year old secret organization of [[Eos/Flying Cities of the First Age/Archon\|Archon]] survivors 
@@ -10,4 +10,4 @@ Divided over a schism, at war with each other.
 ## Known Members
 - [[NPCs/Raphael\|Raphael]]
 - [[NPCs/Rae\|Rae]]
-- [[NPCs/Arrra Freewatecher\|Arrra Freewatecher]]
+- [[NPCs/Arrra Freewatcher\|Arrra Freewatcher]]
