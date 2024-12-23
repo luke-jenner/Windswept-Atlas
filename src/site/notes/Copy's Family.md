@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/copy-s-family/","updated":"2024-12-22T21:50:52.318-06:00"}
+{"dg-publish":true,"permalink":"/copy-s-family/","updated":"2024-12-22T21:51:50.451-06:00"}
 ---
 
 ![Copys Family Logo.png](/img/user/Images/Copys%20Family%20Logo.png)
-An adventuring party founded in 1993 B.R., based on the continent of Willow. The group is most known for their involvement in the Crisis of Dragons, particularly their role in spearheading the r
+An adventuring party founded in 1993 B.R., based on the continent of Willow. The group is most known for their involvement in the Crisis of Dragons, particularly their role in spearheading the Second Battle of Ravenstone, defeating Tiamat as she tore through the Divine Gate.
 
 Any and all inquiries should direct themselves to Lif's Tavern, in the Southern Ward of [[Eos/Willow/Willow\|Willow]] at the corner of Azer Street and Thunderbird Way. 
 
