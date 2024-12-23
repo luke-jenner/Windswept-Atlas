@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-22T19:36:25.372-06:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-22T22:38:00.138-06:00"}
 ---
 
 **Ethelian Region - Forest region. Home to Fey’Ri and some Elves. 
@@ -40,7 +40,7 @@ Perpetual shade of thick, green canopy of the forest - cool weather throughout t
 
 **Tarn Ward** - Central ward, commerce district. Tarn Thoroughfare opens at moonrise, lit by the heavens and floating lanterns. Basic goods can be purchased at %200 their usual cost. However, of fine elven make. Weapons have +1 bonus to damage rolls, horses and mounts have increased movement by 10 feet, other items are beautiful & durable. All common magic items can easily be found here. Uncommon magic items have 50% chance of being found here.
 
-**Feygrove** - nightly parties. (TCG p83)
+**Feygrove** - nightly parties. 
 
 **Reverie Walks** - Artistic & spiritual center of Ethelia. Labyrinth of living trees and stones. 
 
@@ -70,9 +70,7 @@ Travelers who leave the inhabitants of the Misty Forests alone, and who build th
 
 Made up of mostly giant oaks and maple, some of the most dense parts of the Ethelian Forests. Soil is rich enough to be almost black and is almost constantly moist. Produces a wide variety of undergrowth, travelling through can be difficult because of the density. Rich in animal species such as deer, dire wolves, elk, emerald constrictors, finches, manticores, owls, etc. 
 
-As its name can suggest, the Misty Forests are shrouded in magic and mystery. Due to its dark, entangled nature, many Willowan settlers avoided construction and left the forest to the fey. It is, then, inherently closer to the Feywild than any other region throughout the Willowan continent. Feycrossing are abundant - tales and stories are rich, though as is warnings and cautions of adventurers losing their way and becoming myths themselves, or never seen again. All the still, much treasure, magic, and wonder is to be found. Ancient temples, Netherese ruins, pools of raw ether, and a winding network of caverns beneath the ground have attracted many adventurers. <br> 
-	**Tombholds** - narrow cracks in the face of the escparpent that marks the [directional] edge of the [name] Hill, and extends [directio] halfway through the northern end of the Misty Forests. The score or so of cracks are barely wide enough for an armored human to walk into, though are the only known ground-level access into a network of caverns, and are the sites of hasty, ancient human burials: fallen adventurers were stuffed into them, fully dressed and with their belongings, which often included treasure - even magic items. Sages & legends suspect the Chosen of Mystra resupply the Tombholds with magic from time to time, because burials known to have been plundered have been discovered to hold magic by later searchers. The Tombholds are almost all claimed by forest beasts as lairs. <br> 
-	**The Dead Glade** - small clearing in the wild heart of the Misty Forests (few agree on just where) in which some sort of ancient, fell magic holds sway. It can readily be recognized by the long-dead, falling-apart beholder that hangs in midair above it, reduced to an empty globe of sagging chitin plates and rotting fangs hanging askew; all of its eyestalks haave entirely rotted way. It’s not undead, but may serve as shelter for undead. If some adventurers’ tales can be believed, that is. And the magic that holds the remains of the beholder fixed in place makes the flesh of living creatures creep and crawl, and affects them in odd ways that vary from one being to another; some have gained darkvision, lasting years, or levitation or other abilities. Just what this magic is, and why it affects living creatures in different ways, are one of the Misty Forests’ many unexplained mysteries. 
+As its name can suggest, the Misty Forests are shrouded in magic and mystery. Due to its dark, entangled nature, many Willowan settlers avoided construction and left the forest to the fey. It is, then, inherently closer to the Feywild than any other region throughout the Willowan continent. Feycrossing are abundant - tales and stories are rich, though as is warnings and cautions of adventurers losing their way and becoming myths themselves, or never seen again. All the still, much treasure, magic, and wonder is to be found. Ancient temples, Netherese ruins, pools of raw ether, and a winding network of caverns beneath the ground have attracted many adventurers. <br>
 
 ### Mythfaer (City of Magic)
 
@@ -113,51 +111,8 @@ Initial questions will point any outsiders to the building that is now **[[Facti
 
 At five stories, one of the tallest buildings in the city - almost an omega-horseshoe as it extends up from two enormous, magically twisting oak trees and forms a bridge between them. 
 
-First and second floors of each trunk are public galleries and lounges, called the Forehall. News from all over Willow is displayed on broad sheets hung on the walls. Multiple copies of popular reference works are found here in open book galleries including:
-
-> [Dedblood’s Atlas of Willow](https://forgottenrealms.fandom.com/wiki/Delblood%27s_Atlas_of_Faer%C3%BBn)
-[Revendro’s Roll of the Passing Years](https://forgottenrealms.fandom.com/wiki/Revendro%27s_Roll_of_the_Passing_Years) - [Roll of Years ~2,000 onward](https://docs.google.com/document/d/1l4mDlNivTlJHnAm09DQNSjqejiR4cQwObY5zLSi8t0A/edit)
-[Gaurdront’s Guide to Monstrous Beasts](https://forgottenrealms.fandom.com/wiki/Volo%27s_Guide_to_Monsters_(in-universe))
-
-Third through fifth floors are studies and offices, generally organized by topic. Offices are those of scribes, sages, bookbinder, etc employed by the Vault.
-
-Five basement elves where the stacks are located. Only attendants, commander of the Spellguard, and the High Mage are allowed to access these levels. Bookshelves themselves are located in twisting passagesways that, while organized, are difficult to navigate without length training experience. 
-
-For quick access, Vault charges reading feeds for accessing books.
-
-1-5gp per person per day per book
-
-Fees higher for rare books and books on magic
-
-Reading fees 10gp higher for every 25 year of age for tomes on magic
-
-Vault allows viewing tomes about magic but never actual spell books
-
-Copying services - 2gp per page (10 pages per day)
-
-Maps copied for 50gp (2 days per map)
-
-Carrying any kind of writing implement is prohibited
-
-
-Magical protections prevent anyone from teleporting into our out of any level of the Vault
-
-Additional magic keeps anyone from lighting a flame of any sort
-
-Ward tokens are required to access protected levels of the library
-
-Workers are all worshipers of Denier, Scribe of Ioun - Lord of All Glyphs and images, the First Scribe
-
-Sages available for consultations by appointment, charge fees of 50gp an hour, increase to 500 for answering highly specific or difficult questions.
-
-Sages/custodians trend study rooms and acquire books from the stacks by magical retrieval spells.
-
 ### The Map House 
-Finding locations of lost cities or groves (Twilight Princess, run by Harpers)
 
--Antoneus & friends
--Teleportation circle to Mithril Mantle
--Currently working with Steve & Levi to build flying ships using ethereal harnessing technology from the first age - could clean polluted ethereal air
 ### Trielta Hills
 
 Rolling terrain, scattered with small settlements of gnomes and halflings, life seems pastoral and idyllic. Halfling farmers tend to their plots and gnome miners scrape out the interior of the hills seeking the bits of gold and silver they may find waiting there. No warlords threaten this land, no liches or dragons plot to seize it for themselves. Occasionally do offer some impressive bounty, gold rushes, treasure, etc. 
