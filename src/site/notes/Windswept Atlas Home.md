@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-22T20:27:39.293-06:00"}
+{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-22T20:57:25.141-06:00"}
 ---
 
 *Eleasis, 2023 B.R.*
@@ -7,6 +7,11 @@
 Welcome to the Windswept Atlas - a guidebook to the realms of Eos compiled by the adventurers known as [[Copy's Family\|Copy's Family]] and [[Arcane Acquisitions Associated\|Arcane Acquisitions Associated]]. 
 
 To navigate, use the side-bar to the left or the search bar above. 
+
+- [AAA Player Folder](https://drive.google.com/drive/folders/1h7AzJZ2Wgqt7MVjc8zdvR9h1xCZvnepk?usp=drive_link), including C2 maps, stats, and more.
+- [C2 Campaign Log](https://docs.google.com/document/d/1_FmRM24L4DgybyEMHTODrN5A18BsP9FnoZsTY3IGHLM/edit?usp=drive_link), including linked session recordings. 
+- [Copy's Family Player folder](https://drive.google.com/drive/folders/1mF8wWxFuJaVAOGqJOEIQKHgvMx14na_x?usp=drive_link), including C1 maps, stats, and more.
+- [C1 Campaign Log](https://docs.google.com/document/d/1a-_ZANhiTOuuXzRcYax6bL-IIHH1qneu7XWjSAhY0Wg/edit?usp=drive_link), including linked session recordings.
 
 ## The Realms of Eos
 As a whole, the world is in its ‘Third Age.’ With centuries of history, a popular fable of numerous now-ancient religions indicate a pantheon of higher gods that created Eos, though those gods allegedly abandoned the world after Humankind and Elves advanced technologically, began exploring the world, and in an effort of empiricism waged war upon one another. Neither side won the war as it was ended by the gods leaving the Physical Plane for the Ethereal Plane, leaving both races to their own civilizations on separate continents and ending the First Age.
