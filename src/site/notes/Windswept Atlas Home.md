@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-22T21:24:41.551-06:00"}
+{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-22T22:05:05.840-06:00"}
 ---
 
+![Pasted image 20241222220504.png](/img/user/Images/Pasted%20image%2020241222220504.png)
 *Eleasis, 2023 B.R.*
 
 Welcome to the Windswept Atlas - a guidebook to the realms of Eos compiled by the adventurers known as [[Copy's Family\|Copy's Family]] and [[Arcane Acquisitions Associated\|Arcane Acquisitions Associated]]. 
