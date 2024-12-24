@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-22T19:34:04.317-06:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-22T20:34:04.317-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

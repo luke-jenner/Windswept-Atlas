@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/deep-dream/","updated":"2024-12-22T21:21:07.261-06:00"}
+{"dg-publish":true,"permalink":"/world-lore/deep-dream/","updated":"2024-12-22T22:21:07.261-05:00"}
 ---
 
 ![Screenshot 2024-12-22 at 9.19.48 PM.png|350](/img/user/Images/Screenshot%202024-12-22%20at%209.19.48%20PM.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/umbran-slates/","updated":"2024-12-22T19:37:42.210-06:00"}
+{"dg-publish":true,"permalink":"/eos/willow/umbran-slates/","updated":"2024-12-22T20:37:42.210-05:00"}
 ---
 
 [[Eos/Willow/Mrost Region\|Mrost Region]]

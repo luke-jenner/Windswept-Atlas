@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/arsiil/","updated":"2024-12-22T19:29:59.911-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/arsiil/","updated":"2024-12-22T20:29:59.911-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

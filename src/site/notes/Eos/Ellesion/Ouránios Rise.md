@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/ouranios-rise/","updated":"2024-12-22T19:32:23.307-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/ouranios-rise/","updated":"2024-12-22T20:32:23.307-05:00"}
 ---
 
 

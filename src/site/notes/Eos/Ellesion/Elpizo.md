@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/elpizo/","updated":"2024-12-22T23:15:14.228-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/elpizo/","updated":"2024-12-23T00:15:14.228-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

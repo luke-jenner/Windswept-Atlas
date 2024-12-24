@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-22T21:24:19.265-06:00"}
+{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-22T22:24:19.265-05:00"}
 ---
 
 ## The End of the First Age

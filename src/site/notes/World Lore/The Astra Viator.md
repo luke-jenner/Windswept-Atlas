@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/the-astra-viator/","updated":"2024-12-23T09:49:59.626-06:00"}
+{"dg-publish":true,"permalink":"/world-lore/the-astra-viator/","updated":"2024-12-23T10:49:59.626-05:00"}
 ---
 
 ![Pasted image 20241223094742.png](/img/user/Images/Pasted%20image%2020241223094742.png)

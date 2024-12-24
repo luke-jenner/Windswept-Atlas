@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/the-skilathos-sea/","updated":"2024-12-22T19:32:38.195-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/the-skilathos-sea/","updated":"2024-12-22T20:32:38.195-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]] [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

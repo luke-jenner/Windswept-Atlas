@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/thay/","updated":"2024-12-22T19:34:56.486-06:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/thay/","updated":"2024-12-22T20:34:56.486-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

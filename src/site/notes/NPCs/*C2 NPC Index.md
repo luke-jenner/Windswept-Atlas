@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/c2-npc-index/","updated":"2024-12-23T09:42:46.237-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/c2-npc-index/","updated":"2024-12-23T10:42:46.237-05:00"}
 ---
 
 #### [[World Lore/The Moonspear\|The Moonspear]]
@@ -7,7 +7,7 @@
 - Maxson - Dwarf, shipwright
 - Anri - fire genasi, quartermaster
   
-[[Arra Freewatcher\|Arra Freewatcher]] - Leonin, former firstmate of Kothar
+[[NPCs/Arra Freewatcher\|Arra Freewatcher]] - Leonin, former firstmate of Kothar
 Detos - Human sorcerer, mutiny’d with Arra
 Eitri - Dwarven fighter, mutiny’d with Arra
 
@@ -122,7 +122,7 @@ Salty Copper - Goliath [former] captain of The Mithril Catcher
 - [[NPCs/Lyra Felicora\|Lyra Felicora]] - Leonin Sunscout
 - Toxichord - Grung Alchemist
 
-Valerian Shadowgale - Emissary of the Raven Queen, hunting [[Lorn\|Lorn]]
+Valerian Shadowgale - Emissary of the Raven Queen, hunting [[PCs/Lorn\|Lorn]]
 
 #### [[World Lore/The Astra Viator\|The Astra Viator]]
 - EP + LP - Quadrone duo, glitched to become split free-thinking beings, quit its job
@@ -140,7 +140,7 @@ Valerian Shadowgale - Emissary of the Raven Queen, hunting [[Lorn\|Lorn]]
 - Arael - Sword Angel, in The Underground
 - "Synth" - warforged artificer, in The Underground
 - [[NPCs/Szymon Farlight\|Szymon Farlight]] - Aasimar, Paladin of Bahamut
-- [[NPCs/Tellah\|Tellah]] - Gnomish mentor to [[Otto\|Otto]], at [[The Skyforge\|The Skyforge]]
+- [[NPCs/Tellah\|Tellah]] - Gnomish mentor to [[PCs/Otto\|Otto]], at [[The Skyforge\|The Skyforge]]
 - Master Smith Aelvar Ironhearth - Dwarf
 - Thalric the Windwalker - Aarakocra messenger, part of the Vaati
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/aperantos/","updated":"2024-12-22T19:29:52.588-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/aperantos/","updated":"2024-12-22T20:29:52.588-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

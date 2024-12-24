@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-22T22:43:39.181-06:00"}
+{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-23T13:29:21.653-05:00"}
 ---
 
 
-### Re: Steve, First Mate of the Phasmatis de Paxis
+### As Told by Steev, First Mate of the Phasmatis de Paxis
 
 -Supposed to be in the background - like a backstage - it’s nowhere, it’s in-between everything 
 -No one is SUPPOSED to go there
@@ -32,7 +32,7 @@ Dead gods, floating in the void. Historically, this is where the Dawn War took p
 Creatures don’t age or suffer from hunger or thirst. 
 
 
-[[NPCs/Steve\|Steve]]: TIME DOES PASS ON THE ASTRAL PLANE, BUT INCREDIBLY SLOWLY. 365,000 to one. Or, 1,000 years on the Astral Plane is a single day here on the Prime Material. 
+[[NPCs/Steev\|Steev]]: TIME DOES PASS ON THE ASTRAL PLANE, BUT INCREDIBLY SLOWLY. 365,000 to one. Or, 1,000 years on the Astral Plane is a single day here on the Prime Material. 
 
 -Natural healing is useless - your wounds won’t close over time - can only heal through magic
 -Resting doesn’t do anything - no spell recovery - but you still need to sleep for your mind

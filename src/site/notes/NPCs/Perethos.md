@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/perethos/","updated":"2024-12-23T09:57:32.918-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/perethos/","updated":"2024-12-23T10:57:32.918-05:00"}
 ---
 
 ![Pasted image 20241222212815.png|300](/img/user/Images/Pasted%20image%2020241222212815.png)

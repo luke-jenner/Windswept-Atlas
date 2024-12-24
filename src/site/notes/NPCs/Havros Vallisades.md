@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/havros-vallisades/","updated":"2024-12-22T22:21:20.801-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/havros-vallisades/","updated":"2024-12-22T23:21:20.801-05:00"}
 ---
 
 - Deceased adventurer & planar researcher

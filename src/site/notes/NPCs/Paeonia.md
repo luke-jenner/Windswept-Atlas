@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/paeonia/","updated":"2024-12-22T22:59:14.788-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/paeonia/","updated":"2024-12-22T23:59:14.788-05:00"}
 ---
 
 - Skeletal, returned-to-life tavernkeep of Taverna Troluck in [[Eos/Ellesion/Tripolos\|Tripolos]]

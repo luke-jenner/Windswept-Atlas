@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/vandora-wilds/","updated":"2024-12-22T19:35:06.589-06:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/vandora-wilds/","updated":"2024-12-22T20:35:06.589-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

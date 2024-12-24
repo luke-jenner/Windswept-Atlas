@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/copy-s-family/","updated":"2024-12-22T21:51:50.451-06:00"}
+{"dg-publish":true,"permalink":"/copy-s-family/","updated":"2024-12-23T13:37:12.224-05:00"}
 ---
 
 ![Copys Family Logo.png](/img/user/Images/Copys%20Family%20Logo.png)
@@ -9,18 +9,18 @@ Any and all inquiries should direct themselves to Lif's Tavern, in the Southern 
 
 ### Known Members
 
-- Oofer Kalunestov
-- Jhimzoris Kiramaj
-- Lucilio Strongtree
-- Rughyra of Zan
-- Tunelord
-- Copy of Aaqa
-- Lord Francury Oceawin
-- Ezuri
-- Naivara
-- Coswalda
-- Bob Sacamano
-- Ace of Zandrost
+- [[Oofer Kalunestov\|Oofer Kalunestov]]
+- [[Jhimbo\|Jhimzoris Kiramaj]]
+- [[Lucilio Strongtree\|Lucilio Strongtree]]
+- [[Rughyra of Zan\|Rughyra of Zan]]
+- [[Tunelord\|Tunelord]]
+- [[NPCs/Copy\|Copy]] of Aaqa
+- [[Lord Francury Oceawin\|Lord Francury Oceawin]]
+- [[Ezuri\|Ezuri]]
+- [[Naivara\|Naivara]]
+- [[Coswalda\|Coswalda]]
+- [[Bob Sacamano\|Bob Sacamano]]
+- [[Ace\|Ace]] of Zandrost
 
 ### Associated Members
 - Elles

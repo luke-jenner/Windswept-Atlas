@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/world-lore/apocrypha/","updated":"2024-12-23T12:52:40.749-05:00"}
+---
+
+- An ancient [[World Lore/Apocrypha\|Apocrypha]] of the Archons ([[Eos/Flying Cities of the First Age/Archon\|Archon]]) wrote that we are ethereal beings - [[World Lore/Etherborn\|Etherborn]] forced into the mortal & material world
+- Taught by [[NPCs/Wylydia\|Wylydia]] in [[Eos/Halios\|Halios]]
+
+- We are all cosmic beings
+- The Etherstream - the Weave - is "pure spirit."
+	- It is illimitable, since there is nothing before it to limit it. 
+	- Unfathomable, since there is nothing before it to fathom it
+	- Immesaruable, since there was nothing before it to measure it
+	- Eternal, since it exists eternally
+	- Unnamable, since there is nothing before it to give it a name
+- Its an intellect - it thinks and knows itself
+	- "Aeons" were its thoughts - they formed realms of ideal forms. Those aeons, realms, were "divine attributes" to which other thoughts could be born.
+- essentially gnosticism 
+	- Souls of mortals must transcend their corporeal form and commune with the Etherstream - the "Invisible World," or the "pure spirit."
+	- The Primordials were birthed from primordial chaos by making order from the Etherstream - claiming their own aeons
+		- "Aeons" are sometimes denoted as the primordials, or their realms -
+	- Eventually, the Gods were made - possibly the first etherborn - by a divine artisan known as Nykthos the Demiurge
+		- One of the outermost aeons, "Horizons," ([[World Lore/Primordials/Kruphix\|Kruphix]]) wanted to create something - did so without the consent of other aeons
+		- That creation, Nykthos, took after its father and also sought to create
+		- Nykthos built altars according to the stars of the Invisible World - the Etherstream - and those altars became pillars around which the corporeal could connect to the ethereal, allowing the first gods to ascend 
+- The Thesis of this Apocrypha
+	- We are etherbeings, forced into corporeal nature 
+	- We must seek truth and knowledge so that we can ascend back to that ethereal eternity 
+	- The [[World Lore/Gods\|Gods]] are ascended mortals, tighteners of knots in the weave so that they can re-weave it and control it... and therefore are the oppressors. Seeking to distract us. 
+	- The Archons - the first Transcendents - would need to be the freedom fighters to create the worldly jailbreak from corporeal forms. 
+- Glossary: Celestial Dome of the Archons, dividing constellations into Major Arcana which could be used to ascend ([[World Lore/Constellations\|Constellations]])
+	- Only one individual in known history has done this - The Raven Queen - ascending through the constellation Mors Obitus
+	- She may not be the only one - stands to reason if someone had this ability, they'd also have the ability to wipe the collective memory of their ascension 

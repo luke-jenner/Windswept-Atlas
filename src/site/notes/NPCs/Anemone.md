@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/anemone/","updated":"2024-12-23T09:55:35.163-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/anemone/","updated":"2024-12-23T10:55:35.163-05:00"}
 ---
 
 - Gnomish revolutionarie fighting the [[Factions/Triarchy\|Triarchy]] of [[Eos/Ellesion/Néo Fanári\|Néo Fanári]]

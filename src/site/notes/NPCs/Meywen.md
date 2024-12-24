@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-23T09:57:15.489-06:00"}
+{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-23T10:57:15.489-05:00"}
 ---
 
 - Half-elven astromancer

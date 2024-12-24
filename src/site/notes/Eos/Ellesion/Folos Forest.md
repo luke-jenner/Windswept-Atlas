@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/folos-forest/","updated":"2024-12-22T19:30:20.717-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/folos-forest/","updated":"2024-12-22T20:30:20.717-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

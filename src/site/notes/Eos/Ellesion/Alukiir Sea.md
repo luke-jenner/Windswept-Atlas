@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/alukiir-sea/","updated":"2024-12-22T20:22:25.807-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/alukiir-sea/","updated":"2024-12-22T21:22:25.807-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

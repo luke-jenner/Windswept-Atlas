@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/neo-fanari/","updated":"2024-12-22T23:06:50.105-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/neo-fanari/","updated":"2024-12-23T00:06:50.105-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]], backs up to the [[Eos/Ellesion/Ouránios Rise\|Ouránios Rise]] 

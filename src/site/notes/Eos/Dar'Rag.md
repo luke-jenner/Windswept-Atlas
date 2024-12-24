@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-22T22:43:53.173-06:00"}
+{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-23T13:28:40.107-05:00"}
 ---
 
 
@@ -7,4 +7,4 @@ Dar’Rag is a dwarven continent, builders hired by Maragon and Willowan Kingdom
 
 Holds that survive from the days of Delzoun include Mithral Hall, Citadel Adbar, and Citadel Felbarr. Until recently, many of the dwarfolds were members of the Silver Marches, an alliance of cities that provided mutual protection across the North. Disagreements and failed obligations during a war with the orc kingdom of Many-Arrows destroyed the remaining rust of the Marches, and that pact is no more. The Dwarfolds still ally with one another, and individually with nearby human realms in Mrost, but no longer pledge to stand unified with their neighbors. 
 
-To the east is a large sea, though history claims humans arrived on Willow from the east.
+To the east is a large sea, though history claims sophonts arrived on Willow from the east.

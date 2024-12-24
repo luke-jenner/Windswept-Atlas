@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/the-sky/","updated":"2024-12-22T19:32:46.350-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/the-sky/","updated":"2024-12-22T20:32:46.350-05:00"}
 ---
 
 Above [[Eos/Ellesion/Ellesion\|Ellesion]] & [[Eos/Ellesion/The Skilathos Sea\|The Skilathos Sea]]

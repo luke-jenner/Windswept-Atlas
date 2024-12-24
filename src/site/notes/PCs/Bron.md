@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/bron/","updated":"2024-12-23T09:56:02.070-06:00"}
+{"dg-publish":true,"permalink":"/p-cs/bron/","updated":"2024-12-23T13:11:49.584-05:00"}
 ---
 
 *Played by Ken, Campaign 2 & Onward*
 
-- Etherborn Wildmagic Sorcerer
+- [[World Lore/Etherborn\|Etherborn]] Wildmagic Sorcerer
 - Born ~2001 B.R.
 - Found by Hope & Kalma in the form of a purple sheep
 - Raised by parents & [[Eos/Kawluurac/Adriziq Ojo\|Adriziq Ojo]]
-- Founding member of [[Arcane Acquisitions Associated\|AAA]]]
+- Founding member of [[Arcane Acquisitions Associated\|Arcane Acquisitions Associated]]
 
 ### Hope & Kalma
 

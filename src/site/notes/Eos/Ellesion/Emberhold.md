@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/emberhold/","updated":"2024-12-22T19:30:16.966-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/emberhold/","updated":"2024-12-22T20:30:16.966-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

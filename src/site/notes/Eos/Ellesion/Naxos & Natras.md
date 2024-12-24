@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/naxos-and-natras/","updated":"2024-12-23T08:30:09.419-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/naxos-and-natras/","updated":"2024-12-23T09:30:09.419-05:00"}
 ---
 
 ### The Lovers

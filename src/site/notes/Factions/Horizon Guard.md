@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/horizon-guard/","updated":"2024-12-22T21:26:16.755-06:00"}
+{"dg-publish":true,"permalink":"/factions/horizon-guard/","updated":"2024-12-22T22:26:16.755-05:00"}
 ---
 
 
