@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/mrosthad/","updated":"2024-12-22T20:37:24.067-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/mrosthad/","updated":"2024-12-23T20:41:52.264-05:00"}
 ---
 
 [[Eos/Willow/Mrost Region\|Mrost Region]]
+![LUSKAN.jpg](/img/user/Images/LUSKAN.jpg)![mrosthad map.jpg](/img/user/Images/mrosthad%20map.jpg)
+
 Human & dwarven port city turned military stronghold during Sylith war. ~30,000.
 Candlekeep - Towered, Library fortress looking over the sea. 
 Hosttower of the Arcane<br> 

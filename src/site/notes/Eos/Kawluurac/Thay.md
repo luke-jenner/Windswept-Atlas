@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/thay/","updated":"2024-12-22T20:34:56.486-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/thay/","updated":"2024-12-23T20:33:50.904-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
+
+![Kawluraac East Coast Summer 22 1.jpg](/img/user/Images/Kawluraac%20East%20Coast%20Summer%2022%201.jpg)
+
 One of the greatest concentrations of magical might in Kawluurac. Thay is ruled by an ancient lich, Szass Tam, and the nation’s Council of Zulkirs in a ruthless magocracy. The council’s will is enacted by regional tharchions and bureaucrats, leaving the ruling Red Wizards to focus on magical study and more important arcane manners. 
 
 For a time, living mages couldn’t hope to advance in Thay: Szass Tam promoted undeath as a means of existence with boundless possibilities, and held back those who didn’t agree with this philosophy. The recent battles with the demon Eltab, however, have prompted Szass Tam to loosen this stricture - the living now have hope of ascending within the Red Wizards, even if that hope is merely to advance to a high station within the cadre of Tam’s servants.

@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/kawluurac/","updated":"2024-12-22T20:33:54.458-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/kawluurac/","updated":"2024-12-23T20:24:55.620-05:00"}
 ---
 
 "Land of Four Corners / Land of Four Loves"
+
+![Kawluurac-Summer-2022.png](/img/user/Images/Kawluurac-Summer-2022.png)
 
 A land that is heavily divided - geologically and politically. Ripped apart by divine wars in the first age, Kawluurac is adorned by vast mountain ranges, countless rivers, towering plateaus and plunging valleys. The mysterious reaches of the Haunted Highlands of the north create stark contrast from the neigh-endless rainforests to the south. A land of disparate fertility, climates change rapidly as borders are drawn into the landscape itself. The plentiful mountains and surges of ether have attracted mysticism as well as buried it. 
 

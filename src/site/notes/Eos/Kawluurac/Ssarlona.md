@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-22T20:34:04.317-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-23T20:33:36.797-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
+
+![Kawluraac East Coast Summer 22.jpg](/img/user/Images/Kawluraac%20East%20Coast%20Summer%2022.jpg)
 
 Vast, choking jungles of Ssarlona hide what many believe to be great mineral wealth, including large gemstones and veins of ore. During the late second age, Willowan and Ellesion conquerors sought to colonize the jungles, reaping the natural resources in transcontinental trade. Poisonous flora and fauna riddle the jungles, but some still brave the dangers to seek their fortunes. Some of the exotic plants that grow only in Ssarlona fetch high prices in overseas markets. Amidst the Steltos Sea lie the remains of Thindol and Samarach. Despite the apparent fall of both civilizations, Thindol remains inhabited with Sylithians, while the illusions cloaking Samarachs’s mountain passes conceal the activities in that nation.
 

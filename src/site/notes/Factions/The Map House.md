@@ -4,4 +4,4 @@
 
 - Located in Mythfaer in [[Eos/Willow/Ethelia\|Ethelia]]
 - Known Members: [[NPCs/Steev\|Steev]], [[NPCs/Meywen\|Meywen]]
-- Known Non-Members: [[Jhimbo\|Jhimbo]]
+- Known Non-Members: [[PCs/Jhimbo\|Jhimbo]]

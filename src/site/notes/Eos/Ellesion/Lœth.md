@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-22T20:30:34.773-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-23T20:25:58.973-05:00"}
 ---
 
 (Luh-th)
 [[Eos/Ellesion/Ellesion\|Ellesion]], hidden in [[Eos/Ellesion/Folos Forest\|Folos Forest]]
+
+
+> ![](https://lh7-us.googleusercontent.com/IN2aGCTaMtjJfkLN6cVTZJRTyWIuhTpZGxtlPdVwMW42YNkCd1rtcDStQfrrxvIVAumzHn6TEKv4jFEZOEhxh1YgKbvZIV8Mr6nHh6bYCd4ayfUgEnAqXuwfGDFzT8dsOyA2FZqDtoFy05NKiazOOr4)![](https://lh7-us.googleusercontent.com/YnQmIuJ-EjJsm9YCPDoDxsGNO-jz0oSuyC4hwjdpmjCecV9ioXd4xk0j-THxUNMXyCOLY37H-1oKrONLSIkS6fEAtoEKQFCj-71YyYOMLjHWgRIOyd7DmH0slXvgKZZBemy4mOFtXDN-gNVhvCaH8sQ)
+
 Surrounded by the wonders and mysteries of the Folos Forest, Lœth is an ancient elven city that dates back to the First Age. In many histories of the city-states of Ellesion, Lœth has been forgotten and left out as the Lœthian people have remained secluded. Now, in the Third Age, the magicks of the city are discovered by adventurers and its stories are told through bardic song.
 
 *Arriving on the other side of the teleportation disk, you arrive at a small shrine on a hill, immediately struck by the village below you. Nestled in a lush river valley, you see a small constructed town that feels ancient, untouched, and almost dreamlike. Tall, narrow, elven-gothic stone structures rise in sharp verticals. The buildings, crafted from light gray stone veined with silver, are covered in creeping ivy and adorned with intricate elven carvings that seem to tell long-forgotten stories of the gods. Tall, slender archways, high-vaulted roofs, and bridges made of stone stretch between structures at various heights, connecting the village in an almost web-liek pattern.
@@ -100,5 +104,3 @@ The village feels incredibly still and quiet; the only sounds are the rushing of
 - Often dreams of travelling himself, bound by duty to Lœth
 - Playful, attempts to learn more about visitors through casual conversatoin 
 - Always reports back to Maernis
-
-> ![](https://lh7-us.googleusercontent.com/IN2aGCTaMtjJfkLN6cVTZJRTyWIuhTpZGxtlPdVwMW42YNkCd1rtcDStQfrrxvIVAumzHn6TEKv4jFEZOEhxh1YgKbvZIV8Mr6nHh6bYCd4ayfUgEnAqXuwfGDFzT8dsOyA2FZqDtoFy05NKiazOOr4)![](https://lh7-us.googleusercontent.com/YnQmIuJ-EjJsm9YCPDoDxsGNO-jz0oSuyC4hwjdpmjCecV9ioXd4xk0j-THxUNMXyCOLY37H-1oKrONLSIkS6fEAtoEKQFCj-71YyYOMLjHWgRIOyd7DmH0slXvgKZZBemy4mOFtXDN-gNVhvCaH8sQ)**

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-23T13:29:21.653-05:00"}
+{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-23T20:55:37.617-05:00"}
 ---
-
 
 ### As Told by Steev, First Mate of the Phasmatis de Paxis
 

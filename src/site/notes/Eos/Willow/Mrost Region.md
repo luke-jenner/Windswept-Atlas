@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/mrost-region/","updated":"2024-12-22T20:36:46.757-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/mrost-region/","updated":"2024-12-23T20:39:45.991-05:00"}
 ---
 
 [[Eos/Willow/Willow (Continent)\|Willow (Continent)]]
+
+![Images/NW Willow July 2020.jpg](/img/user/Images/NW%20Willow%20July%202020.jpg)
 Mros Mountains - Not yet snowy mountain range, houses reactor and Wilengate. Due to terrain and lack of wildlife higher up, not many villages exist and conditions are hard to live off the grid. 
 ### Mrost 
 Northernmost city of Willoan Kingdom, snowy. ~70,000. Dwarven home in Willo. Fortress. 
@@ -28,7 +30,3 @@ Local temple of Lathander ministers majority of matters of faith in the city, at
 Zhentarim agents known to scout in Loudwater.
 
 Home to Vajra Safahr & the [Moonstars](https://forgottenrealms.fandom.com/wiki/Moonstars) - similar contingent to Harpers, but emphasis on unity through magic & Mystra.
-
-**![](https://lh7-us.googleusercontent.com/LSdTiWUFAEG9wE_mt1XZ280gVsslOjfMQ8nKCsFOcaz2I_gQnugZ1m8vBj0fgESERpd78oargdPJpvI8dt7OOAenf-r7o-RX8sXHQLY_CNkVHJZ0MYyRDoqLF4MAZeHO6N1r5KUkSKfxq26PeeRWcw)**
-
-![NW Willow July 2020.jpg](/img/user/Eos/Willow/NW%20Willow%20July%202020.jpg)

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-23T13:28:40.107-05:00"}
+{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-23T20:55:51.593-05:00"}
 ---
-
 
 Dar’Rag is a dwarven continent, builders hired by Maragon and Willowan Kingdom. Still wealthy homeland, though travel as workforce to take home more wealth. Various dwarven communities are the heirs and survivors of Delzoun, the great Northkingdom of long ago. Despite continually warring over the centuries with orcs and goblinoids of the region, and having to fight off assaults from below by duergar and drow, the shield dwarves have stood fast, determined to hold the halls against all threats - and, when necessary, reclaim them.
 

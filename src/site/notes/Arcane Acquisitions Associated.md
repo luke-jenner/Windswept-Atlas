@@ -10,6 +10,6 @@ An adventuring party founded in 2023 B.R., recognized as active crew of [[World 
 - [[PCs/Bron\|Bronntanas Draíochta]]
 - [[PCs/Eevan\|Dr. Eevan Fraust]]
 - [[PCs/Otto\|Octavious LeBlac III]]
-- [[Gerdi\|Gerdi]] 
+- [[PCs/Gerdi\|Gerdi]] 
 - [[PCs/Lorn\|Lorn Ironclaw]]
-- [[Venalyn of the Alukiir Seas\|Venalyn of the Alukiir Seas]]
+- [[PCs/Venalyn of the Alukiir Seas\|Venalyn of the Alukiir Seas]]

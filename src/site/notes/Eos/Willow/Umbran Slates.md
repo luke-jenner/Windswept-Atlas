@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/umbran-slates/","updated":"2024-12-22T20:37:42.210-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/umbran-slates/","updated":"2024-12-23T20:42:29.474-05:00"}
 ---
 
 [[Eos/Willow/Mrost Region\|Mrost Region]]
-**1,000 - Dragonborn, Tieflings, Drow, & Halflings**
+
+![5f5d9e59a773e0d91ab0c5da2af6f253.jpg](/img/user/Images/5f5d9e59a773e0d91ab0c5da2af6f253.jpg)
 
 Where the Sunset Mountains begin to shift into the Graypeaks, the rocks shift to a gleaming black slate that gives the plateau area an unusually warm climate in the sun, keeping its scattered lakes green and lively year-round. The hills in the area are dotted with mine entrances and old abandoned outposts, perfect for all manner of wildlife, dangers, and hideaway folk. 
 

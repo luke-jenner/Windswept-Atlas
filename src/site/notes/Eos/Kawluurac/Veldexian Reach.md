@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-22T20:35:24.025-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-23T20:38:23.084-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
+
+![Veldexian-Reach-Summer-2022.png](/img/user/Images/Veldexian-Reach-Summer-2022.png)
 ### Velde Aerdie (Blade Winds)
 
 - Diverse metropolis, ancient indigenous city turned elven by Ellesionese conquerors in the Second Age 

@@ -9,13 +9,13 @@ Any and all inquiries should direct themselves to Lif's Tavern, in the Southern 
 
 ### Known Members
 
-- [[Oofer Kalunestov\|Oofer Kalunestov]]
-- [[Jhimbo\|Jhimzoris Kiramaj]]
-- [[Lucilio Strongtree\|Lucilio Strongtree]]
-- [[Rughyra of Zan\|Rughyra of Zan]]
-- [[Tunelord\|Tunelord]]
+- [[PCs/Oofer Kalunestov\|Oofer Kalunestov]]
+- [[PCs/Jhimbo\|Jhimzoris Kiramaj]]
+- [[PCs/Lucilio Strongtree\|Lucilio Strongtree]]
+- [[PCs/Rughyra of Zan\|Rughyra of Zan]]
+- [[PCs/Tunelord\|Tunelord]]
 - [[NPCs/Copy\|Copy]] of Aaqa
-- [[Lord Francury Oceawin\|Lord Francury Oceawin]]
+- [[PCs/Lord Francury Oceawin\|Lord Francury Oceawin]]
 - [[Ezuri\|Ezuri]]
 - [[Naivara\|Naivara]]
 - [[Coswalda\|Coswalda]]

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-22T23:38:00.138-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-23T20:38:49.881-05:00"}
 ---
 
 **Ethelian Region - Forest region. Home to Fey’Ri and some Elves. 
 [[Eos/Willow/Willow (Continent)\|Willow (Continent)]]
+
+![ethelia_march21.jpg](/img/user/Eos/Willow/ethelia_march21.jpg) 
 
 **Rivers**: 
 - Heylelian - split from Lake Heylel, down to Ethelvarden
@@ -150,4 +152,4 @@ A collection of temples reside in repurposed structures, some notable shrines to
 
 One of many small settlements hidden throughout the southwestern forests, this one in the Alder Draco Woods was home to dragonborn enclaves living in peace away from kingdom, utilizing the Karreth Vel for trade with Ethelvarden.**
 
-![ethelia_march21.jpg](/img/user/Eos/Willow/ethelia_march21.jpg)
+]]

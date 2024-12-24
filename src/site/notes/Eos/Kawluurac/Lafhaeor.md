@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-22T23:31:07.701-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-23T20:32:47.394-05:00"}
 ---
 
 Lost City of Lafhaeor - "Running Water" - name given by Ellesionese settlers in the late 1st age. **Center of Kawluurac's massive river basin.**
 ...eventually referred to as **Lanorn** - Dead Water
+
+![Pasted image 20241223203245.png](/img/user/Images/Pasted%20image%2020241223203245.png)
 
 TL;DR
 - Predates Flying Cities, Primal Peoples - "barbaric"
