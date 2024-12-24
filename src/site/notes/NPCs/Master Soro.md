@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/master-soro/","updated":"2024-12-23T10:57:07.396-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/master-soro/","updated":"2024-12-23T22:48:37.526-05:00"}
 ---
 
-![Pasted image 20241223084126.png](/img/user/Images/Pasted%20image%2020241223084126.png)
+![Pasted image 20241223084126.png|550](/img/user/Images/Pasted%20image%2020241223084126.png)
 - Elder tortle wiseman & artist
 - Lives in a mobile bridge home in [[Eos/Ellesion/Naxos & Natras\|Naxos & Natras]]
 - Met [[Arcane Acquisitions Associated\|AAA]] in Flamerule of 2023 B.R., while exploring Naxos & Natras

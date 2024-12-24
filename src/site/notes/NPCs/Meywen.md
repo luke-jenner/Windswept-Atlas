@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-23T10:57:15.489-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/meywen/","updated":"2024-12-23T22:46:17.219-05:00"}
 ---
 
+![Pasted image 20241223224615.png](/img/user/Images/Pasted%20image%2020241223224615.png)
 - Half-elven astromancer
 - Apprentice to [[NPCs/Wylydia\|Wylydia]] at the Starlight Sanctuaries in [[Eos/Halios\|Halios]]
 - Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R., on their arrival to Halios

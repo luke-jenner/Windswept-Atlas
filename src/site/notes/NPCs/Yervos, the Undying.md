@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/yervos-the-undying/","updated":"2024-12-23T12:03:12.752-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/yervos-the-undying/","updated":"2024-12-23T22:48:01.907-05:00"}
 ---
 
+![Pasted image 20241223224757.png|275](/img/user/Images/Pasted%20image%2020241223224757.png)]
 Met [[Arcane Acquisitions Associated\|AAA]], [[PCs/Eevan\|Eevan]] in Mirtul of 2023 B.R., in their time on [[Eos/Halios\|Halios]] 
 
 Once a Sage out of Altrinios, now an Undead Warlock.

@@ -6,4 +6,4 @@
 - Leonin Sun Scout based out of [[Eos/Ellesion/Apérantos\|Apérantos]]
 - Friend/mentor to Thundertusk the Wind Rider
 - [[World Lore/Etherborn\|Etherborn]] Monk
-- Interested in [[PCs/Bron\|Bron]]'s [[chaosether\|chaosether]] - taught a song of calming
+- Interested in [[PCs/Bron\|Bron]]'s [[World Lore/chaosether\|chaosether]] - taught a song of calming

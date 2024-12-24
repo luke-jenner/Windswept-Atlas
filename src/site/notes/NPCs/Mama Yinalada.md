@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-22T23:28:27.123-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-23T22:48:58.792-05:00"}
 ---
 
 The Dreamless Matron
@@ -7,7 +7,6 @@ The Dreamless Matron
 - 'Adopted' mother to [[PCs/Glint\|Glint]]
 - Lives in a walled grove in  [[The Feywild\|The Feywild]]
 - Collects memories and dreams
-
 ### Appearance
 Appearance is both mesmerizing and unsettling
 	- Face that resembles a beautiful, warm grandmother - though seems to textend past her head as if it were a mask that she wears that animates *just slightly* out of sync with her words, though is adorned with a smile that splits its features in half

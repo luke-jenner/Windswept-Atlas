@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/tellah/","updated":"2024-12-23T12:02:19.496-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/tellah/","updated":"2024-12-23T22:48:10.718-05:00"}
 ---
 
-![Pasted image 20241223092822.png](/img/user/Images/Pasted%20image%2020241223092822.png)
+![Pasted image 20241223092822.png|400](/img/user/Images/Pasted%20image%2020241223092822.png)
 - Gnomish Mentor to [[PCs/Otto\|Otto]]
 - Met [[Arcane Acquisitions Associated\|AAA]] on Highsummer of 2023 B.R., at [[The Skyforge\|The Skyforge]]
 - Trained Lilli of [[NPCs/Wrench & Dagger\|Wrench & Dagger]]
