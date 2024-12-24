@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/ble-ramath/","updated":"2024-12-23T22:30:02.534-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/ble-ramath/","updated":"2024-12-23T23:29:48.393-05:00"}
 ---
 
 ![Pasted image 20241223223000.png](/img/user/Images/Pasted%20image%2020241223223000.png)
