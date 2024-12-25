@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/dawnwar/","updated":"2024-12-23T12:48:22.987-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/dawnwar/","updated":"2024-12-24T22:33:54.037-05:00"}
 ---
 
 *Adapted from the Dawnwar of the Forgotten Realms and the Gigantomachy in Greek Mythology.*
 
-In written histories, the event marking the end of the Dawn Era and the beginning of the First Age.
+In written histories, the event marking the end of the Dawn Era and the beginning of the First Age. Estimated ~27,000 P.B.R.
 
 A war fought between the [[World Lore/Gods\|Gods]] and the [[World Lore/Primordials/Primordials\|Primordials]] for dominion over all of ethereal existence. Said to have taken place in the [[Eos/Astral Sea\|Astral Sea]]. 
 
