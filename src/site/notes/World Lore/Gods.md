@@ -1,60 +1,61 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T22:51:30.066-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T23:26:35.063-05:00"}
 ---
 
 *Largely using existing canon of [D&D gods of Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon#Members) in tandem with [Critical Role's Exandria Pantheon](https://criticalrole.fandom.com/wiki/Deity), with home-brewed adaptations.*
 ![Pasted image 20241224225128.png](/img/user/Images/Pasted%20image%2020241224225128.png)
-Prime Deities
-	Pelor, the Dawnfather (NG)
-	Melora, the Wildmother (Silvanus) (NG)
-	Moradin, the Allhammer (LG)
-	Ioun, the Knowing Mistress (N)
-	Corellon, the Archheart (CG)
-	Bahamut, the Platinum Dragon (LG)
-	Lathander, the Morning Lord (NG)
-	Selune, the Moon Maiden (CG)
-	Kord, the Stormlord (CN)
-	The Raven Queen (LN)
-	The Everlight (LG)
-Betrayer Gods
-	Asmodeus, Lord of the Hells (LE)
-	Tiamat, the Scaled Tyrant (LE/CE)
-	Lolth, the Spider Queen (CE)
-	Tharizdun, the Chained Oblivion (CE)
-	Shar, the Night Maiden (NE)
-	Umberlee, the Wavemother (CE)
-	Grumsh, the Ruiner (CE)
-	Torog, the Crawling King (NE)
-	Bane, The Strife Emperor (LE)
-	Leira, The Mistshadow (CN)
-	Zehir, The Great Serpent (LE)
-Greater Gods
-	Amaunator, God of the Sky (N)
-	Amaterasu, Goddess of the Sun (NG)
-	Jergal, the Final Scribe (LN)
-	Mystra, Mother of Magic (LN)
-Lesser Gods
-	Hlal, the Mercury Dragon (CG)
-	[[Eldath\|Eldath]], Guardian of Glades (NG)
-	Mielikki, Goddess of Autumn (NG)
-	Berronar Truesilver, Matriarch of the Morndinsamman (LG)
-	Kelemvor, God of the Dead (LN)
-	Malar, God of the Hunt (CE)
-	Bhaal, God of Murder (NE)
-	Gond, Lord of All Smiths, God of Craft (N)
-	Helm - God of Watchfulness (LN)
-	Ilmater - God of Endurance (LG)
-	Tyr, God of Justice (LG)
-	Tymora, Goddess of Good Fortune (CG)
-	Sune, Goddess of Love & Beauty (CG)
-	Talos, God of the Tempest (CE)
-	Azuth, God of Wizardry (LN)
-	Baphomet, Prince of Beasts 
-	Orcus, the Demon Prince
-Sundered Gods
-	Zehir, the Great Serpent - usurped by Xen'drik, Lord of Dust
-	Cyric, God of Lies -  usurped by Leira
-	Myrkul, God of Decay
+### Prime Deities
+- Pelor, the Dawnfather (NG)
+- Melora, the Wildmother (Silvanus) (NG)
+- Moradin, the Allhammer (LG)
+- Ioun, the Knowing Mistress (N)
+- Corellon, the Archheart (CG)
+- Bahamut, the Platinum Dragon (LG)
+- Lathander, the Morning Lord (NG)
+- Selune, the Moon Maiden (CG)
+- Kord, the Stormlord (CN)
+- The Raven Queen (LN)
+- The Everlight (LG)
+### Betrayer Gods
+- Asmodeus, Lord of the Hells (LE)
+- Tiamat, the Scaled Tyrant (LE/CE)
+- Lolth, the Spider Queen (CE)
+- Tharizdun, the Chained Oblivion (CE)
+- Shar, the Night Maiden (NE)
+- Umberlee, the Wavemother (CE)
+- Grumsh, the Ruiner (CE)
+- Torog, the Crawling King (NE)
+- Bane, The Strife Emperor (LE)
+- Leira, The Mistshadow (CN)
+- Zehir, The Great Serpent (LE)
+### Greater Gods
+- Amaunator, God of the Sky (N)
+- Amaterasu, Goddess of the Sun (NG)
+- Jergal, the Final Scribe (LN)
+- Mystra, Mother of Magic (LN)
+### Lesser Gods
+- Hlal, the Mercury Dragon (CG)
+- [[Eldath\|Eldath]], Guardian of Glades (NG)
+- Mielikki, Goddess of Autumn (NG)
+- Berronar Truesilver, Matriarch of the Morndinsamman (LG)
+- Kelemvor, God of the Dead (LN)
+- Malar, God of the Hunt (CE)
+- Bhaal, God of Murder (NE)
+- Gond, Lord of All Smiths, God of Craft (N)
+- Helm - God of Watchfulness (LN)
+- Ilmater - God of Endurance (LG)
+- Tyr, God of Justice (LG)
+- Tymora, Goddess of Good Fortune (CG)
+- Sune, Goddess of Love & Beauty (CG)
+- Talos, God of the Tempest (CE)
+- Azuth, God of Wizardry (LN)
+- Baphomet, Prince of Beasts 
+- Orcus, the Demon Prince
+
+### Sundered Gods
+- Zehir, the Great Serpent - usurped by Xen'drik, Lord of Dust
+- Cyric, God of Lies -  usurped by Leira
+- Myrkul, God of Decay
 
 ---
 
