@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-22T22:24:19.265-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-24T22:57:46.164-05:00"}
 ---
 
+![Pasted image 20241224225744.png](/img/user/Images/Pasted%20image%2020241224225744.png)
 ## The End of the First Age
 From the Journals of Leola, Historian and Wayfarer of Eos
 
