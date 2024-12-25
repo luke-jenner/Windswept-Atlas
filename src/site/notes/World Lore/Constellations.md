@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/constellations/","updated":"2024-12-23T13:00:34.191-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/constellations/","updated":"2024-12-24T22:46:37.162-05:00"}
 ---
+
+![Pasted image 20241224224636.png](/img/user/Images/Pasted%20image%2020241224224636.png)
 
 The stars of Eos are always shifting and changing. They can regularly be redrawn and re-understood - they are entirely contingent on narratives that are told. 
 
