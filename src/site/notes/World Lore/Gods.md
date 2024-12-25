@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T22:20:59.136-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T22:51:30.066-05:00"}
 ---
 
 *Largely using existing canon of [D&D gods of Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon#Members) in tandem with [Critical Role's Exandria Pantheon](https://criticalrole.fandom.com/wiki/Deity), with home-brewed adaptations.*
-
+![Pasted image 20241224225128.png](/img/user/Images/Pasted%20image%2020241224225128.png)
 Prime Deities
 	Pelor, the Dawnfather (NG)
 	Melora, the Wildmother (Silvanus) (NG)
