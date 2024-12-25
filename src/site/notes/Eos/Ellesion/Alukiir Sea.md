@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/alukiir-sea/","updated":"2024-12-22T21:22:25.807-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/alukiir-sea/","updated":"2024-12-24T20:39:40.626-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]
+**![](https://lh7-us.googleusercontent.com/wjUJbhi75L2tZeEgBysMDop_6qmyuWDkiu3DQ0s375cM2XVyEs_ExeviXQWHRrRoIPC_B68wwgCGBORDMpLFS8xW8h7T_XzNgC2tZ8KdTEJteGRIp3u0fQIzwBAYA_mgVFYpxbdPzFsG97ZDKtOcFvk)
 Together, the Archipelago of the Ellesion Seas makeup the eastern coasts of the continent, and are fabled to be the realm of [[World Lore/Primordials/Thassa\|Thassa]]-Istishia, the now dormant water primordial and dawn titan. Of all primordials, Thassa-Istishia took a neutral stance in the Dawn War, only desiring change from the status quo. As the war raged on, Thassa descended into the moving waters of Eos, giving birth to Umberlee, Talos, and their younger sister, Sune. 
 
 Being the domain of Thassa, the Ellesion Seas hide an amazing array of creatures, including the entire triton civilization. Their legendary dangers range from deadly reefs and wandering islands to predatory beasts and devastating krakens. Ever-changing, the Ellesion Seas are a realm of impossible sights and constant danger, the setting of legendary odysseys and the crucible of heroes. 
@@ -15,4 +16,4 @@ Although numerous triton cultures exist throughout the Ellesion Seas, many of th
 
 [[Eos/Ellesion/Amphrithia\|Amphrithia]]
 
-**![](https://lh7-us.googleusercontent.com/wjUJbhi75L2tZeEgBysMDop_6qmyuWDkiu3DQ0s375cM2XVyEs_ExeviXQWHRrRoIPC_B68wwgCGBORDMpLFS8xW8h7T_XzNgC2tZ8KdTEJteGRIp3u0fQIzwBAYA_mgVFYpxbdPzFsG97ZDKtOcFvk)![](https://lh7-us.googleusercontent.com/SP-mhD6EKKwk7jlFh4ng4XJ0dB7MCxKnzrm7qqbOD8QKcyrLeBUs9WGmnt9Xd5EXNMxvDeyPgx8t90Gnm5cymKpz4qAypwFdruk5vSUXnRseMIiLd-FuQDTLu6uc6XdlKT68ZnwDEfQm8QPX31iGT3s)**
+![](https://lh7-us.googleusercontent.com/SP-mhD6EKKwk7jlFh4ng4XJ0dB7MCxKnzrm7qqbOD8QKcyrLeBUs9WGmnt9Xd5EXNMxvDeyPgx8t90Gnm5cymKpz4qAypwFdruk5vSUXnRseMIiLd-FuQDTLu6uc6XdlKT68ZnwDEfQm8QPX31iGT3s)**
