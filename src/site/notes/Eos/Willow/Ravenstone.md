@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ravenstone/","updated":"2024-12-23T21:36:32.935-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ravenstone/","updated":"2024-12-24T21:30:31.675-05:00"}
 ---
 
 - Volcanic islands in the Starfallen Sea
@@ -10,5 +10,5 @@
 
 - Post Godswar, a site of colonial conqueset between [[Eos/Willow/Willow\|Willow]] and [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
 - Under Willowan territory in the 2nd age, site of a constructed [[Factions/Magaron\|Magaron]] Reactor
-- Used as headquarters by the [[Factions/Cult of the Dragon\|Cult of the Dragon]] during the Crisis of Dragons, switching the center of the volcano wtih a Temple of Tiamat from the Shadowfell
+- Used as headquarters by the [[Factions/Cult of the Dragon\|Cult of the Dragon]] during the [[Crisis of Dragons\|Crisis of Dragons]], switching the center of the volcano wtih a Temple of Tiamat from the Shadowfell
 - Site of the Second Battle of Ravenstone, in which [[Copy's Family\|Copy's Family]] defeated an Aspect of Tiamat that had permeated the Divine Gate

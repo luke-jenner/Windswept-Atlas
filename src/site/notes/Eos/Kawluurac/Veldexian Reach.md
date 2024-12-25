@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-23T20:38:23.084-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-24T21:27:40.261-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
@@ -9,7 +9,7 @@
 
 - Diverse metropolis, ancient indigenous city turned elven by Ellesionese conquerors in the Second Age 
 - Geographically protected by surrounding hills, built above the intersection of two major rivers, enormous sweeping bridges - constant winds in open air structures
-- A refuge for many during the War with Willow, now a flourishing city - the heart of all merchant exchange across Kawluraac
+- A refuge for many during the War with Willow, now a flourishing city - the heart of all merchant exchange across [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
 - Political power oversees & protects many settlements throughout the Veldexcia Reach - a built up mercantile alliance strengthened by uniting forces during the Age of Demons
 - A diversely religious city, home to many fleeing Thayan prosecution though also the trading site of many dark, divine, or arcane artifacts found in the Ssarlonian Jungles to the northeast or the Kawluurac Rainforests to the southwest
 - While thoroughly diverse now in the Third Age, the architecture built over indigenous Kawluraac infrastructure is just one sign of lasting colonial elven bias in the city.

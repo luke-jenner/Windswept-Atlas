@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-23T20:33:36.797-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/ssarlona/","updated":"2024-12-24T21:23:17.963-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
@@ -8,8 +8,8 @@
 
 Vast, choking jungles of Ssarlona hide what many believe to be great mineral wealth, including large gemstones and veins of ore. During the late second age, Willowan and Ellesion conquerors sought to colonize the jungles, reaping the natural resources in transcontinental trade. Poisonous flora and fauna riddle the jungles, but some still brave the dangers to seek their fortunes. Some of the exotic plants that grow only in Ssarlona fetch high prices in overseas markets. Amidst the Steltos Sea lie the remains of Thindol and Samarach. Despite the apparent fall of both civilizations, Thindol remains inhabited with Sylithians, while the illusions cloaking Samarachs’s mountain passes conceal the activities in that nation.
 
-Capital of **Thessk**, homeland of the Sylithians. Post-war, relatively few in number as many have left as refugees. Legends tell of Ssarlona as the prime kingdom of Xen’drik, Lord of Dust, during the Age of Demons which shaped the Sylithian people. During a war with the chromatic dragons, Tiamat sunk her claws into the demon lord Xen’drik, afflicting Sylithians with an evil curse stretching back to the first age.
-	Xen’Drik, Lord of Dust, took the place of Zehir during the Godswar. Xen’drik forced and locked Zehir into Tytherion, beyond the Divine Gate, and presented himself to the Sylithian people as the rightful heir of Ssarlona and its people.  
+Capital of **Thessk**, homeland of the Sylithians. Post-war, relatively few in number as many have left as refugees. Legends tell of Ssarlona as the prime kingdom of Xen’drik, Lord of Dust, during the [[World Lore/Age of Demons\|Age of Demons]] which shaped the Sylithian people. During a war with the chromatic dragons, Tiamat sunk her claws into the demon lord Xen’drik, afflicting Sylithians with an evil curse stretching back to the first age.
+	Xen’Drik, Lord of Dust, took the place of Zehir during [[World Lore/The Godswar\|the Godswar]]. Xen’drik forced and locked Zehir into Tytherion, beyond the Divine Gate, and presented himself to the Sylithian people as the rightful heir of Ssarlona and its people.  
 
 Today’s Sylithians care nothing for their originarity and show no loyalty to the Lords of Dust - they maintain their sovereignty from the Age of Demons as well as show disdain for the aberrations that flock to the banner of the Dragon Below. Proud and spiteful, the sylithians take vengeance on those that have crossed them. 
 
@@ -27,7 +27,6 @@ Sylithians in the city-state of Thessk are currently recovering from humiliation
 ### Ekhi Cove
 
 Outside of the influence of the Xehas Crown
-  
   
 ![](https://lh7-us.googleusercontent.com/7fgeBg3rbDQ6KueIBqEBjeWDn-c5pRkRAmQ0yiJ8pmDfds-55OqMleBnB9izXvyqGR7zkRFZeykz2QrnJtow-xm8K_zhK4_Id-0Vd6A5UIOUMbF9OyIyNttdtdwT0mybHmuz-bx-qiicqnF_xkNt6g)![](https://lh7-us.googleusercontent.com/hDLnjNcVWoRCF4bfMK2oCjklbzKZSJ3Tx0o6Smqmk7is8ZO0n2MYK6EQwguEk2rdDzM81oVHfdirp-Xy6PbXzjc0ncYjlhQpAC3f8cRQ17yF_pC30pxwqL-MCEKS_ofuXn88BxYQtif_IGb9Rx49Ig)![](https://lh7-us.googleusercontent.com/sr382zQs0u18MZvapqQuAiRYllP3rRn3Q9G4d61fgDgEPrX4H4AEg-kgX_Qj44R2PdeLBCLA5p2HtJ3g75aWDfu_TA_YmG8w_hyqJyx3gWuocBaWaCxIqp7c5fMQvkTf1aVNwhp6wm8qKpU99ilf9w)
 ### Szatlnoco

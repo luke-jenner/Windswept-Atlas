@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/emberhold/","updated":"2024-12-22T20:30:16.966-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/emberhold/","updated":"2024-12-24T21:05:11.483-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]
@@ -8,7 +8,6 @@
 
 Walled city-state atop cliffs and plateaus - few have ever dared to attack its famed fortress, the Lacadaemon.
 Culture of feared warriors  that centers around perfecting the mind and body for war. 
-
 ### Monarchy 
 ruled by a monarch drawn from an ancient lineage. Monarchs pass to eldest child, though any sibling or first cousin can challenge this succession and claim the throne by besting the heir in single combat. 
 

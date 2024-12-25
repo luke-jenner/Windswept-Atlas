@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-23T20:38:49.881-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-24T21:28:55.491-05:00"}
 ---
 
 **Ethelian Region - Forest region. Home to Fey’Ri and some Elves. 
@@ -20,7 +20,7 @@
 Elven home city in Willow. Walled. ~50,000. Little Crownsguard occupation. Built along mountains in forest. Hosts elves that are Willowan Citizens, though retains its own Elder Council. General elitism of elves, leads to rumors of conspiracy with Ellesion. Did supply soldiers to fight during Sylithian War though only to defend Willow. After war ended, soldiers returned home. 
 91% Elven, 5% Fey’ri, 2% Human, 2% other
 
-Founded by the sorceress **Ethralei** in the wake of the Godswar, Ethelia marked the first major elven civilization in the Heartlands. Whereas many Elven netherese courts took home in Ellesion and others fled to the Feywild, many began returning to Ethelia when Ethralei found the realm safe to return. These survivors built a new home, taking inspiration from their temporary home among the fey, and formed foundations of Ethelia. Two millennium later, Ethelia stands as the proud, defiant cultural and economic center of elven society on this continent.
+Founded by the sorceress **Ethralei** in the wake of [[World Lore/The Godswar\|the Godswar]], Ethelia marked the first major elven civilization in the Heartlands. Whereas many Elven netherese courts took home in Ellesion and others fled to the Feywild, many began returning to Ethelia when Ethralei found the realm safe to return. These survivors built a new home, taking inspiration from their temporary home among the fey, and formed foundations of Ethelia. Two millennium later, Ethelia stands as the proud, defiant cultural and economic center of elven society on this continent.
 
 Government: Governed by Ethelian King, a hereditary monarch who appoints proven individuals to offices alongside them. After the Willowan-Ethelian Union (900 years prior), the Ethelian King retained their wardenhood over the Ethelian Region, though under Willowan Crown authority and with protections from the Willowan Kingdom. 
 

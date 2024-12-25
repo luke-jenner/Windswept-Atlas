@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/altrinios/","updated":"2024-12-22T20:27:57.799-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/altrinios/","updated":"2024-12-24T20:55:33.087-05:00"}
 ---
 
 ### Acro-Polis of Altrinios 
 [[Eos/Ellesion/Ellesion\|Ellesion]]
 ![](https://lh7-us.googleusercontent.com/5Wml0PduunwFmx7aStSAFeGDnZ9rRWfvStJC9JYZxm4SMMw6hezDhHwtMx8TQ0BTzvqNVmPbW4tV1TBYjIVd-ZOBqv3QbaT50z5DxI_wdqK6uQPuMHfmDgwVc62uj6gnS_MHBuiqHGIxgwFMsG18mcc)![](https://lh7-us.googleusercontent.com/AhfpL8GK2xKOXpJUGIEUaMyQ7c36OaOUGNBHWOy9P2In8Cvz0GIZS0fUBa6z6tR50Lk1DNXo7Lj4ZSZ1ElLzzLQlOT4UVcjnhJhFqonSVsCEIZjWOUVUD44CaJmQFrAohCpsG5mE1Iknvj_72ivEcDM)![](https://lh7-us.googleusercontent.com/zm_nv1PzaPvUznY8e5IikDqpmSixQ22JrzjKV9pgIVqjQmTKXJepw4aVYga3fqT1mb_07OBR8ob-ChIgI7pdgvL7LDnLaRqiFrPv5uGMbYk-ywL0hRa_v9ILO16C8qd821ProdH-RcrHxEKNIESS4QY)
 
-The most populous city-state of Ellesion, with cultural values of learning, magic, and progress dating back to the First Age. Home to progressive thinkers, devote thaumaturges, and wise oracles. With values of [human]ism, societal betterment, and reinvention over stagnation and totalitarianism, Altrinios is a bastion of the mortal races of the west. 
+The most populous city-state of [[Eos/Ellesion/Ellesion\|Ellesion]], with cultural values of learning, magic, and progress dating back to the First Age. Home to progressive thinkers, devote thaumaturges, and wise oracles. With values of [human]ism, societal betterment, and reinvention over stagnation and totalitarianism, Altrinios is a bastion of the mortal races of the west. 
 
 For centuries after The Fall of the Flying Cities in the First Age, the region around Altrinios was dominated by Heraklos, a tyrannical survivor of The Fall that built legions of followers from refugees through his show of arcane force. He aggressively expanded his empire, spreading it into the forests of the west and the mountains to the north. Ultimately, a band of heroes overthrew the tyrant and from the empire’s ruins rose Altrinios, a land that endeavors to reject oppression throughout the world and guards against hypocrisy within its own borders. 
   
@@ -22,7 +22,7 @@ Altrinios features a complex web of arcane trains - some that traverse the city,
 Export fabric & fish northward, import stonework. Altrinioans have reputations for being accomplished weavers, skilled sailors, and cunning merchants. Books and literacy are common throughout the land, and the work of scribes, cartographers, musicians, and storytellers is well regarded. The people of Altrinios believe themselves to be the inheritors of a heroic tradition, and each person owes it to themselves and to society to strive for greatness. 
 ### Schools of Philosophy
 Altrinios holds pursuits of knowledge and wisdom at the highest ideal, and thus funds its schools and educational infrastructure above all other political endeavors. While many of the schools’ renown philosophers come from privileged classes of the city-state, the academies are funded by many stipends for academic pursuit. Different philosophical schools hold political as well as intellectual power in the city-state, with five major schools dominating Altrinioan discourse.
->**Solathfaer Corazon Institute** - Histories
+>**[[Eos/Ellesion/Solathfaer Corazon\|Solathfaer Corazon]] Institute** - Histories
 **Sondeleon** - Practical, Military, and Experimental Arcana
 **Sharr Shantar** - Environmental, Primal, & Druidic Arts
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-arcane-brotherhood/","updated":"2024-12-23T20:59:15.211-05:00"}
+{"dg-publish":true,"permalink":"/factions/the-arcane-brotherhood/","updated":"2024-12-24T21:39:02.001-05:00"}
 ---
 
-- Hosttower of the Arcane
+- Hosttower of the Arcane, based in [[Eos/Willow/Mrosthad\|Mrosthad]]
 - Arcane Brotherhood: Mercantile Company & Wizard’s Guild, shrouded in mystery, rumored to be a longstanding corrupt organization seeking political & economic control
 
 - Enemies of the Harpers, the Lord’s Alliance, and the Silver Sails

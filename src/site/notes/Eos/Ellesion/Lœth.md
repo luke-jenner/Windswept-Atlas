@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-23T20:25:58.973-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-24T21:08:17.030-05:00"}
 ---
 
 (Luh-th)
@@ -69,16 +69,6 @@ The village feels incredibly still and quiet; the only sounds are the rushing of
 - Rarely speaks
 ## Day Wardens
 
-**Maernis Dawnward
-- Twilight Elf
-- Stoic elven man - pale, almost translucent skin that shimmers faintly in daylight
-- Dark silver hair, tied into a long braid
-- Eyes glow with a faint purple hue - said to grant him a semblance of darkvision even under the sun
-- Chief day-warden, guarding Lœth during the sunlit horus
-- Speaks little, watches close
-- Polite, though reserved and quiet - doesn't disrupt balance of wanderers who don't disrupt the balance of Lœth
-- Harbors deep pride in his people's customs and won't hesitate to challenge anyone who threatens it 
-
 
 **Syllea 'Nightbloom' Vastra**
 - Moon elf
@@ -90,17 +80,3 @@ The village feels incredibly still and quiet; the only sounds are the rushing of
 - Gentle, but enigmatic - prone to cryptic statements about night and its wisdom
 - Kind, but a certain eerie quality about her
 - Fascinated by outsdiers, especially those wh ocome to Lœth by chance, seeing them as puzzle pieces in a larger cosmic game
-
-
-**Varnis Graycloak**
-- Half-elf, lunar heritage
-- Young, dusky skin, wiry frame
-- Hair is a wild tangle of silver and red locks that fall over his gray-green eyes
-- Dressed in simple leathers with a gray cloak lined with soft fur
-- Single string of animal bones as a neckalce - charms for luck and protection
-- Daytime scout, patrolling the outskirts of the valley and keeping an eye on travellers
-- Job is to steer explorers if needed
-- Friendly but cautious, more open to outsiders than other wardens
-- Often dreams of travelling himself, bound by duty to Lœth
-- Playful, attempts to learn more about visitors through casual conversatoin 
-- Always reports back to Maernis

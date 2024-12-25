@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/vandora-wilds/","updated":"2024-12-22T20:35:06.589-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/vandora-wilds/","updated":"2024-12-24T21:27:21.809-05:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
 
-**The largest known expanse of forest and jungle, the Vandora Wilds is the expanse of rainforest across the continent of Kawluurac. Many local lore asserts that Vandora is one of the most dangerous places in all of Eos. The flora is known to be intelligent predators, while the predators themselves are massive - hundreds of miles of the Vandora remain untouched from times when giants and dragons ruled the world. 
+**The largest known expanse of forest and jungle, the Vandora Wilds is the expanse of rainforest across the continent of [[Eos/Kawluurac/Kawluurac\|Kawluurac]]. Many local lore asserts that Vandora is one of the most dangerous places in all of Eos. The flora is known to be intelligent predators, while the predators themselves are massive - hundreds of miles of the Vandora remain untouched from times when giants and dragons ruled the world. 
 
 Hidden throughout the endless canopy of rainforest are ruins, fabled civilizations lay in ruins, now inhabited by new cultures, wild beasts, or are left untouched to the mystery of the jungles. 
 

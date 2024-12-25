@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/archon/","updated":"2024-12-22T22:55:27.055-05:00"}
+{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/archon/","updated":"2024-12-24T21:15:06.421-05:00"}
 ---
 
 A Flying City over [[Eos/Ellesion/Ellesion\|Ellesion]] in the First Age. Rivaled by  [[Netharis\|Netharis]] over Northern Kawluurac and Willo over the Heartlands
@@ -22,5 +22,5 @@ Archons persisted past the Godswar, though they became quiet, lesser beings. Man
 	- The Gods had access to it - why shouldn't everyone?
 - Driven by research of transcendence, learned about the nature of the weave in unparalleled ways 
 	- Used learned magic to enrich their societies and daily life
-	- Were likely the first of the flying cities to ascend, before Willo, [[Netharis\|Netharis]], Veskos, & [[Eos/Flying Cities of the First Age/Amphrithios\|Amphrithios]]... shortly followed by their rivals, Willo & [[Netharis\|Netharis]]
+	- Were likely the first of the flying cities to ascend, before Willo, [[Netharis\|Netharis]], [[Veskos\|Veskos]], & [[Eos/Flying Cities of the First Age/Amphrithios\|Amphrithios]]... shortly followed by their rivals, [[Willo\|Willo]] & [[Netharis\|Netharis]]
 - An ancient [[World Lore/Apocrypha\|Apocrypha]] of the Archons wrote that we are ethereal beings - [[World Lore/Etherborn\|Etherborn]] forced into the mortal & material world

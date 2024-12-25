@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/arsiil/","updated":"2024-12-22T20:29:59.911-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/arsiil/","updated":"2024-12-24T21:00:56.870-05:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]
 **![](https://lh7-us.googleusercontent.com/q-44Z1XA2DMlpSFImmuncHPmwwh6rOFoMVWa3AzFZGjl5BELZmdy0e0m4taoQJmGLzYtQZLVrpFRkTvFzRc3qCNBbrddZWzyrebFkJp9a9HRpIaWIsHmO7IUa63qQo3Fmoc6ri49XZjyJbZIkKyMJ28)![](https://lh7-us.googleusercontent.com/yBJqgaiXRakUzDTrrSSmDn1GObF2kWa2-52QfPfwGBI2NjqdP1V2Bs9NDcpZ_lKAMxwmDc2vqPg4r3GWDLKB8vPK43nODnIApe7eVe82XoBrVZgtP0XnuBFmr_kBZooQj61oKVFCoxgP7poY71miGrk)**
 
-In between the Ouránios Peaks and the Sea of Skilathos lies Arsiil, an expanse of agriculture & prosperity. City-state theocracy - run by Veradron, an angel of The Dawnfather that delivered the city from catastrophe fifty years ago. Out of protection of the city’s agricultural boons, Veradron has turned the city rather isolationist over the last 30 years. 
+In between the [[Eos/Ellesion/Ouránios Rise\|Ouránios Rise]] and  [[Eos/Ellesion/The Skilathos Sea\|The Skilathos Sea]]  lies Arsiil, an expanse of agriculture & prosperity. City-state theocracy - run by Veradron, an angel of The Dawnfather that delivered the city from catastrophe fifty years ago. Out of protection of the city’s agricultural boons, Veradron has turned the city rather isolationist over the last 30 years. 
 
 Flourishing gardens, vibrant arts life, thirst for knowledge. Many independent schools are free to teach broad curricula that beget a well-read populace. Although the long list of censored works constrains opportunities for higher education, especially in philosophy & literature, the cist-state cautiously embraces progress, adopting developments in magic and science as long as they don’t contradict religious principles. 
 

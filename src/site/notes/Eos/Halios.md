@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/halios/","updated":"2024-12-23T13:27:42.176-05:00"}
+{"dg-publish":true,"permalink":"/eos/halios/","updated":"2024-12-24T20:41:28.518-05:00"}
 ---
 
 A bastion of civilization in the Ethereal Plane. Serves as a nexus of diplomacy and trade, a repository of histories and secrets, and a thriving sanctuary for those seeking safety or a better life. 
@@ -15,8 +15,8 @@ Lead Factions:
 "The Cobalt Archon" - one of the founders of Halios from the ancient city of Archon. Known for that as he befriended a Cobalt Dragon that he traveled the planes with, assembling a mass of knowledge and treasure. 
 	Name has since been lost.
 	Known for philanthropy and protection - knowledge could build and protect us from chaos of the worlds. 
-	Started the "Cobalt Reserve" in the city of Archon itself, though was lost during the Fall of Flying Cities 
-	The "Cobalt Soul" in Willow and Ellesion connect their heritage to the Cobalt Archon, valuing the pursuit of knowledge as a force of protection in the realms. They, however, made it religious following the Godswar, attributing reverence to Ioun after her work in defeating the Betrayer Gods.
+	Started the "Cobalt Reserve" in the city of [[Eos/Flying Cities of the First Age/Archon\|Archon]] itself, though was lost during the Fall of Flying Cities 
+	The "[[Factions/Cobalt Soul\|Cobalt Soul]]" in Willow and Ellesion connect their heritage to the Cobalt Archon, valuing the pursuit of knowledge as a force of protection in the realms. They, however, made it religious following [[World Lore/The Godswar\|the Godswar]], attributing reverence to Ioun after her work in defeating the Betrayer Gods.
 ### Court of Whispers
 
 Denizens of Court of Whispers barter for current knowledge. Heralds, criers, bards, and griots buy and sell information from the fifteen founding civilizations active in Halios, as well as other lands. Skilled scouts and spies can also be hired for short-term recon and long-term infiltration. Mixed indoor-outdoor space with quiet alcoves and open plazas. 
