@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/ethereal-ores/","updated":"2024-12-24T22:20:22.694-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/ethereal-ores/","updated":"2024-12-24T22:48:37.694-05:00"}
 ---
 
+![Pasted image 20241224224836.png](/img/user/Images/Pasted%20image%2020241224224836.png)
 "Tears of the Gods" - or Fallen Angels
 
 Shards from the Eternal Comet ([[Eos/Halios\|Halios]]) or other comets in the Ethereal Plane that crossed as meteors into the Material Plane
