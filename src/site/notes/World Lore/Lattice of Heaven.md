@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/lattice-of-heaven/","updated":"2024-12-23T12:17:43.693-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/lattice-of-heaven/","updated":"2024-12-24T22:52:32.462-05:00"}
 ---
 
 *Part of the [[World Lore/Cosmological Wheel\|Cosmological Wheel]] lore.*
-
+![Pasted image 20241224225230.png](/img/user/Images/Pasted%20image%2020241224225230.png)
 - In the Dawn Age, a grand structure of worlds & planes drawn by the [[World Lore/Gods\|Gods]]
 - A specific web of connections - the stars themselves - to design and direct the flow of the Ethereal Weave
 - A bastion complex in the middle of the [[Eos/Astral Sea\|Astral Sea]]
