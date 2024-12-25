@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-23T20:55:37.617-05:00"}
+{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-24T21:35:15.992-05:00"}
 ---
 
+![Pasted image 20241224213513.png](/img/user/Images/Pasted%20image%2020241224213513.png)
 ### As Told by Steev, First Mate of the Phasmatis de Paxis
 
 -Supposed to be in the background - like a backstage - it’s nowhere, it’s in-between everything 
@@ -26,7 +27,7 @@ If these planes - these worlds that we exist in - were created at some point, an
 
 It’s the backstage area that no one was ever meant to see. 
 
-Dead gods, floating in the void. Historically, this is where the Dawn War took place. 
+Dead gods, floating in the void. Historically, this is where the [[World Lore/Dawnwar\|DawnWar]] took place. 
 
 Creatures don’t age or suffer from hunger or thirst. 
 
@@ -42,7 +43,7 @@ Time does catch up to you - as soon as you leave, every day you spend will be gi
 
 **You need a conduit - a permanent link between worlds of mortals and worlds of the gods - a constructed connection that are formed to allow these existences to be together.** 
 
-It’s how gods send spells past the Divine Gate. It’s how you pass to the Feywild or the Shadowfell. They’re typically invisible, most have some kind of a lifespan. Usually if it forms naturally, the conduit will swallow a moment of the plane it cracks to life on. Takes it with it. 
+It’s how [[World Lore/Gods\|gods]] send spells past the Divine Gate. It’s how you pass to the Feywild or the Shadowfell. They’re typically invisible, most have some kind of a lifespan. Usually if it forms naturally, the conduit will swallow a moment of the plane it cracks to life on. Takes it with it. 
 
 Those conduits are the only natural thing in the Astral Sea. These voids, light holes. 
 
