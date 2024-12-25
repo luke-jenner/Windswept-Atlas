@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/etherborn/","updated":"2024-12-23T13:03:33.961-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/etherborn/","updated":"2024-12-24T22:02:09.931-05:00"}
 ---
 
 As taught by [[NPCs/Wylydia\|Wylydia]] at the Starlight Sanctuaries in [[Eos/Halios\|Halios]]

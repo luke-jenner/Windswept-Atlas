@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/cosmological-wheel/","updated":"2024-12-23T12:26:43.398-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/cosmological-wheel/","updated":"2024-12-24T22:18:56.475-05:00"}
 ---
 
 *Adapted from the Cosmological Wheel of the Forgotten Realms.*
 ![Pasted image 20231213113321.png](app://388cdd4f626ba3343d5bff641314224605e4/Users/LukeJenner/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/AAA/PDFs/Pasted%20image%2020231213113321.png?1702488801000)
-### Once, [[the Lattice of Heaven\|the Lattice of Heaven]]
+### Once, the [[World Lore/Lattice of Heaven\|Lattice of Heaven]]
 - In the Dawn Age, a grand structure of worlds & planes drawn by the [[World Lore/Gods\|Gods]]
 - A specific web of connections - the stars themselves - to design and direct the flow of the Ethereal Weave
 - A bastion complex in the middle of the [[Eos/Astral Sea\|Astral Sea]]
