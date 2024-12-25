@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/kruphix/","updated":"2024-12-23T12:38:30.778-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/kruphix/","updated":"2024-12-24T22:31:37.961-05:00"}
 ---
 
 Primordial/Aeon of the Horizons 
+
+![Pasted image 20241224223137.png](/img/user/Images/Pasted%20image%2020241224223137.png)
 
 Child of Hemera (The Illuminatrix, Titan of Light) and Nocturna (The Umbral Soveirgn, Titan of Shadow)
 
