@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/elpizo/","updated":"2024-12-23T00:15:14.228-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/elpizo/","updated":"2024-12-27T17:56:25.112-06:00"}
 ---
 
+![Pasted image 20241227175607.png](/img/user/Images/Pasted%20image%2020241227175607.png)
 [[Eos/Ellesion/Ellesion\|Ellesion]]
 *Built on a rocky promontory jutting into the sea - ascending cliffs serve as natural walls with plateaus building the city itself, leads to a high fortress - a naval base for the city’s port & harbor. 
 
@@ -9,6 +10,7 @@
   
 *As you watch - a pale mist rises from within the city. It drifts through the gates and breaks over the city walls as if the entire city were exhaling one great breath.*
 
+![Pasted image 20241227175623.png](/img/user/Images/Pasted%20image%2020241227175623.png)
 ## NPCs
 - [[NPCs/Euicles\|Euicles]] - half-elf, up & coming magistate
 - [[NPCs/Ioanna\|Ioanna]] - Astronomer, distrubed by [[World Lore/Primordials/Kruphix\|Kruphix]], fought in Windwalker Rebellion
