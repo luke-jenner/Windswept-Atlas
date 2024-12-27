@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/elvendawn/","updated":"2024-12-27T16:25:24.334-06:00"}
+{"dg-publish":true,"permalink":"/elvendawn/","updated":"2024-12-27T16:25:47.567-06:00"}
 ---
 
 ![Pasted image 20241227162522.png](/img/user/Images/Pasted%20image%2020241227162522.png)
 - Also known as Midsummer in some cultures, sometimes Long Night
-- Holiday on the day after 30 Flamerule
+- Holiday on the day after 30 Flamerule of the Eos Common [[World Lore/Calendar\|Calendar]]
 - Historically attributed to Corellon, the Archheart
 - Summer Solstice
 - Said the gods themselves ensure good weather
