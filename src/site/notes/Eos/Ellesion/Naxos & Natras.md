@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/naxos-and-natras/","updated":"2024-12-23T20:26:21.608-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/naxos-and-natras/","updated":"2024-12-27T18:09:19.181-06:00"}
 ---
 
 
@@ -21,3 +21,5 @@ Embarking on a journey through Naxos and Natras is not merely a physical explora
 ### NPCs
 - Home to [[NPCs/Master Soro\|Master Soro]] & Ishta
 
+### The Sune Strait
+![Pasted image 20241227180917.png](/img/user/Images/Pasted%20image%2020241227180917.png)
