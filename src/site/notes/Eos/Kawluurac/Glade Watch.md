@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/glade-watch/","updated":"2024-12-22T20:33:47.763-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/glade-watch/","updated":"2024-12-22T19:33:47.763-06:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

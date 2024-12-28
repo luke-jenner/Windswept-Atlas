@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/shael-s-map/","updated":"2024-12-23T12:10:07.397-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/shael-s-map/","updated":"2024-12-23T11:10:07.397-06:00"}
 ---
 
 - Buried with [[NPCs/Shael of Archon\|Shael of Archon]] in the First Age

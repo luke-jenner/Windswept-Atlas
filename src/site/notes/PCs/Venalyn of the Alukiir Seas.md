@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/venalyn-of-the-alukiir-seas/","updated":"2024-12-23T13:23:13.232-05:00"}
+{"dg-publish":true,"permalink":"/p-cs/venalyn-of-the-alukiir-seas/","updated":"2024-12-23T12:23:13.232-06:00"}
 ---
 
 *Played by Allison, Campaign 2.*

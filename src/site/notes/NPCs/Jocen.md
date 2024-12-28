@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/jocen/","updated":"2024-12-24T10:02:22.621-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/jocen/","updated":"2024-12-24T09:02:22.621-06:00"}
 ---
 
 #### Jocen - Satyr Barkeep at the Sojurn, Poet and Artist

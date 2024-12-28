@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/ellesion/","updated":"2024-12-24T21:04:22.127-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/ellesion/","updated":"2024-12-24T20:04:22.127-06:00"}
 ---
 
 **Land of myths and legends - ruins of a fallen First Age, as well as the fruit of its planted seeds. Expanses of wild nature, might city-states, mysteries off any map, and the lasting creations of both gods and primordials, Ellesion is is home to millenia of adventures. 

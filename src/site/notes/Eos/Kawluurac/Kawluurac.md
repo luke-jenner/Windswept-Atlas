@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/kawluurac/","updated":"2024-12-24T21:18:09.592-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/kawluurac/","updated":"2024-12-24T20:18:09.592-06:00"}
 ---
 
 "Land of Four Corners / Land of Four Loves"

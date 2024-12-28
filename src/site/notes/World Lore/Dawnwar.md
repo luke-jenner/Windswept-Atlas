@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/dawnwar/","updated":"2024-12-24T22:35:06.255-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/dawnwar/","updated":"2024-12-24T21:35:06.255-06:00"}
 ---
 
 *Adapted from the Dawnwar of the Forgotten Realms and the Gigantomachy in Greek Mythology.*

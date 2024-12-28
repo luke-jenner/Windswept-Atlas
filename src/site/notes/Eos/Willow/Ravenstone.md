@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ravenstone/","updated":"2024-12-24T21:30:31.675-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ravenstone/","updated":"2024-12-24T20:30:31.675-06:00"}
 ---
 
 - Volcanic islands in the Starfallen Sea

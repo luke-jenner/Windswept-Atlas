@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-emerald-enclave/","updated":"2024-12-24T23:03:00.553-05:00"}
+{"dg-publish":true,"permalink":"/factions/the-emerald-enclave/","updated":"2024-12-24T22:03:00.553-06:00"}
 ---
 
 *Adapted from [The Emerald Enclave of the Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Emerald_Enclave).*

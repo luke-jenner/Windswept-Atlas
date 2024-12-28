@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/glint/","updated":"2024-12-27T18:10:20.089-06:00"}
+{"dg-publish":true,"permalink":"/p-cs/glint/","updated":"2024-12-27T18:11:38.941-06:00"}
 ---
 
-![Pasted image 20241227180843.png](/img/user/Images/Pasted%20image%2020241227180843.png)
+![Pasted image 20241227180843.png|425](/img/user/Images/Pasted%20image%2020241227180843.png)
+![Pasted image 20241227181136.png|275](/img/user/Images/Pasted%20image%2020241227181136.png)
 
 ### Fey-Friends
 - Arti

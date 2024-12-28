@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/valley-of-the-fallen-star/","updated":"2024-12-23T20:49:30.821-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/valley-of-the-fallen-star/","updated":"2024-12-23T19:49:30.821-06:00"}
 ---
 
 [[Eos/Willow/Mrost Region\|Mrost Region]]

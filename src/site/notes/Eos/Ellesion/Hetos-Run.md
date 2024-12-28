@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/hetos-run/","updated":"2024-12-24T21:07:13.874-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/hetos-run/","updated":"2024-12-24T20:07:13.874-06:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

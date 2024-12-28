@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/magaron/","updated":"2024-12-23T22:09:55.821-05:00"}
+{"dg-publish":true,"permalink":"/factions/magaron/","updated":"2024-12-23T21:09:55.821-06:00"}
 ---
 
 - Corporation contracted by Kingdom of [[Eos/Willow/Willow\|Willow]] during the Second Age to mine, refine, and distribute ether

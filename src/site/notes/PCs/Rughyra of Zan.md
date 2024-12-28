@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/rughyra-of-zan/","updated":"2024-12-24T21:59:08.704-05:00"}
+{"dg-publish":true,"permalink":"/p-cs/rughyra-of-zan/","updated":"2024-12-24T20:59:08.704-06:00"}
 ---
 
 *Played by Jackson, Campaign 1.*

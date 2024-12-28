@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/the-moonspear/","updated":"2024-12-23T20:14:45.730-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/the-moonspear/","updated":"2024-12-23T19:14:45.730-06:00"}
 ---
 
 Sailing ship, retrofitted to become an airship, and once again retrofitted to traverse planes. 

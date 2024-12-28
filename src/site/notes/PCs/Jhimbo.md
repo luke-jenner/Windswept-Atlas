@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/jhimbo/","updated":"2024-12-24T22:00:17.947-05:00"}
+{"dg-publish":true,"permalink":"/p-cs/jhimbo/","updated":"2024-12-24T21:00:17.947-06:00"}
 ---
 
 *Played by Jules, Campaign 1.*

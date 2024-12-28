@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-24T21:37:55.517-05:00"}
+{"dg-publish":true,"permalink":"/eos/dar-rag/","updated":"2024-12-24T20:37:55.517-06:00"}
 ---
 
 ![Pasted image 20241224213638.png](/img/user/Images/Pasted%20image%2020241224213638.png)

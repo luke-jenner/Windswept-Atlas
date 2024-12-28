@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/johvandur/","updated":"2024-12-23T22:55:23.801-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/johvandur/","updated":"2024-12-23T21:55:23.801-06:00"}
 ---
 
 ![Pasted image 20241223225521.png](/img/user/Images/Pasted%20image%2020241223225521.png)

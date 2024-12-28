@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/lorn/","updated":"2024-12-24T21:59:47.450-05:00"}
+{"dg-publish":true,"permalink":"/p-cs/lorn/","updated":"2024-12-24T20:59:47.450-06:00"}
 ---
 
 *Played by Diego, Campaign 2 and Onward.*

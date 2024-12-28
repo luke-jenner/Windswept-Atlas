@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-23T22:48:58.792-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/mama-yinalada/","updated":"2024-12-27T18:10:02.620-06:00"}
 ---
 
 The Dreamless Matron
@@ -15,3 +15,6 @@ Appearance is both mesmerizing and unsettling
 	- Her form - tall, maybe 6 feet with a bit of a lean, appears human, though moves like a gentle breeze is blowing through her bones like branches - 
 	- maybe that feeling is given off by the literal vines that come out from under her robes around her shoulders, like a mantle made of ivy
 	- Despite her unsettling appearance, there is an undeinable allure to her - she doesn't appear threatening - like that person from across the bar that you feel like you could talk to and already have a familial understanding with
+
+### Yinalda's Grove
+![Pasted image 20241227181000.png](/img/user/Images/Pasted%20image%2020241227181000.png)

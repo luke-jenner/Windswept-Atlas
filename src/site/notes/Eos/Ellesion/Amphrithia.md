@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/amphrithia/","updated":"2024-12-24T20:57:08.062-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/amphrithia/","updated":"2024-12-24T19:57:08.062-06:00"}
 ---
 
 Kingdom of Amphrithia, in the [[Eos/Ellesion/Alukiir Sea\|Alukiir Sea]], home to a long dynasty of Triton built from the remains of a fallen First Age city. During [[World Lore/The Godswar\|the Godswar]], secluded themselves from the surface in worship of [[World Lore/Primordials/Thassa\|Thassa]], a Primordial of the Sea - protector of intangible things such as ancient knowledge, long voyages, and gradual change. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/dasos/","updated":"2024-12-24T21:02:26.644-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/dasos/","updated":"2024-12-24T20:02:26.644-06:00"}
 ---
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]

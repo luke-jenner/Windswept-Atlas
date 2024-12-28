@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/szymon-farlight/","updated":"2024-12-24T21:44:19.187-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/szymon-farlight/","updated":"2024-12-24T20:44:19.187-06:00"}
 ---
 
 - Aasimar, Paladin of Bahamut

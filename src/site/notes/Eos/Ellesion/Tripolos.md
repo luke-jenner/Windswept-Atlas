@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/tripolos/","updated":"2024-12-23T00:01:20.207-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/tripolos/","updated":"2024-12-22T23:01:20.207-06:00"}
 ---
 
 - Small coastal town outside of [[Eos/Ellesion/Néo Fanári\|Néo Fanári]] on northern coast of [[Eos/Ellesion/Ellesion\|Ellesion]]

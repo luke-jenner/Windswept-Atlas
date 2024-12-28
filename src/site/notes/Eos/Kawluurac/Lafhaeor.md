@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-24T21:20:13.717-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/lafhaeor/","updated":"2024-12-24T20:20:13.717-06:00"}
 ---
 
 Lost City of Lafhaeor - "Running Water" - name given by Ellesionese settlers in the late 1st age. **Center of [[Eos/Kawluurac/Kawluurac\|Kawluurac]]'s massive river basin.**

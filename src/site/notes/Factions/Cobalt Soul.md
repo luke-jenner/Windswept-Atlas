@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/cobalt-soul/","updated":"2024-12-23T21:25:57.565-05:00"}
+{"dg-publish":true,"permalink":"/factions/cobalt-soul/","updated":"2024-12-23T20:25:57.565-06:00"}
 ---
 
 *Adapted from the [Cobalt Soul from Exandria](https://criticalrole.fandom.com/wiki/Cobalt_Soul).*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/tefra/","updated":"2024-12-23T12:39:56.073-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/tefra/","updated":"2024-12-23T11:39:56.073-06:00"}
 ---
 
 The Dust Titan - Age, Extinction, Affliction

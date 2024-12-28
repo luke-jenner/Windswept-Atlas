@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/lord-francury-oceawin/","updated":"2024-12-23T22:33:06.549-05:00"}
+{"dg-publish":true,"permalink":"/p-cs/lord-francury-oceawin/","updated":"2024-12-23T21:33:06.549-06:00"}
 ---
 
 *Played by Adam, Campaign 1. 2018-2022 CR.*

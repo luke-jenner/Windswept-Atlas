@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-24T23:02:05.943-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/the-godswar/","updated":"2024-12-24T22:02:05.943-06:00"}
 ---
 
 ![Pasted image 20241224225744.png](/img/user/Images/Pasted%20image%2020241224225744.png)

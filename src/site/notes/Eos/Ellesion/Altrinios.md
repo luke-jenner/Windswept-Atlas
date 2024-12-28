@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/altrinios/","updated":"2024-12-24T20:55:33.087-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/altrinios/","updated":"2024-12-24T19:55:33.087-06:00"}
 ---
 
 ### Acro-Polis of Altrinios 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/gaiaphage-book/","updated":"2024-12-23T12:51:39.797-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/gaiaphage-book/","updated":"2024-12-23T11:51:39.797-06:00"}
 ---
 
 

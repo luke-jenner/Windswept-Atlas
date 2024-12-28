@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/archon/","updated":"2024-12-24T21:15:06.421-05:00"}
+{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/archon/","updated":"2024-12-24T20:15:06.421-06:00"}
 ---
 
 A Flying City over [[Eos/Ellesion/Ellesion\|Ellesion]] in the First Age. Rivaled by  [[Netharis\|Netharis]] over Northern Kawluurac and Willo over the Heartlands

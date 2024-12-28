@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/age-of-demons/","updated":"2024-12-24T22:14:10.727-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/age-of-demons/","updated":"2024-12-24T21:14:10.727-06:00"}
 ---
 
 ~1300-1450 B.R.

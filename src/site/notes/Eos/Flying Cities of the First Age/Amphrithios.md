@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/amphrithios/","updated":"2024-12-22T23:34:59.899-05:00"}
+{"dg-publish":true,"permalink":"/eos/flying-cities-of-the-first-age/amphrithios/","updated":"2024-12-22T22:34:59.899-06:00"}
 ---
 
 First age civilization, warred with [[Netharis\|Netharis]].

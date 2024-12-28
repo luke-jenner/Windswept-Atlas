@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/aperantos/","updated":"2024-12-24T21:00:09.947-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/aperantos/","updated":"2024-12-27T18:10:58.604-06:00"}
 ---
+
+![Pasted image 20241227181043.png](/img/user/Images/Pasted%20image%2020241227181043.png)
 
 [[Eos/Ellesion/Ellesion\|Ellesion]]
 Serves at the default capital for [[Eos/Ellesion/Hetos-Run\|Hetos-Run]], a meeting place for the Prides and Peoples, and the home of the primal leaders. Stone buildings and slender windmills jut above the plains, their pale colors and metal decorations shimmering in the light and changing color as the sun moves across the sky. Many leonin matriarchs and otherwise souls retire to Apérantos to share their wisdom with all prides. In recent decades, many non-leonin traders have been admitted to Apérantos, provoking exaggerated tales of the leonin sages and their golden city. 
@@ -71,6 +73,7 @@ Bugbear skilled in navigating skies with a glider. Known for his daring acrobati
 Centaur known for her swift movements and expertise in water rituals. Plays a key role in ceremonies involving rivers and lakes. Stocks Aperantos' water supply.
 
 ### Mount Ilios
+![Pasted image 20241227181056.png|375](/img/user/Images/Pasted%20image%2020241227181056.png)
 Atop Mount Ilios rises a massive temple, open-roofed and accented in gold. This temple of Amauntaor, his closest to Hetos-Run, is rarely visited, but on the god’s highest of holy days, worshipers journey there to commune with the sun god. These pilgrimages occasinoally bring the god’s servants into conflict with the wary leonin hunting nearby. 
 
 ### Kathréftis - The Sun's Mirror

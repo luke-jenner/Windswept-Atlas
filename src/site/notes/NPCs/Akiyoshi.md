@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/akiyoshi/","updated":"2024-12-22T22:21:19.354-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/akiyoshi/","updated":"2024-12-22T21:21:19.354-06:00"}
 ---
 
 ![lukejenner_anime_character_art_of_a_blue_and_purple_furred_kits_dd17659a-30ce-4791-b0a5-45d7971055a5.png|275](/img/user/Images/lukejenner_anime_character_art_of_a_blue_and_purple_furred_kits_dd17659a-30ce-4791-b0a5-45d7971055a5.png)

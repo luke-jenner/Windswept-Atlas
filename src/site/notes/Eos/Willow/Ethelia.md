@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-24T21:28:55.491-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/ethelia/","updated":"2024-12-24T20:28:55.491-06:00"}
 ---
 
 **Ethelian Region - Forest region. Home to Fey’Ri and some Elves. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/apocrypha/","updated":"2024-12-23T12:52:40.749-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/apocrypha/","updated":"2024-12-23T11:52:40.749-06:00"}
 ---
 
 - An ancient [[World Lore/Apocrypha\|Apocrypha]] of the Archons ([[Eos/Flying Cities of the First Age/Archon\|Archon]]) wrote that we are ethereal beings - [[World Lore/Etherborn\|Etherborn]] forced into the mortal & material world

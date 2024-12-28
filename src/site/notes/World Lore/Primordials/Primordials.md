@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/primordials/","updated":"2024-12-24T22:33:01.864-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/primordials/","updated":"2024-12-24T21:33:01.864-06:00"}
 ---
 
 - Primordials, or Titans, existed before the Dawn Age, likely spawned by Primordial Chaos

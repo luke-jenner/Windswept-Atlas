@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/lattice-of-heaven/","updated":"2024-12-24T22:52:32.462-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/lattice-of-heaven/","updated":"2024-12-24T21:52:32.462-06:00"}
 ---
 
 *Part of the [[World Lore/Cosmological Wheel\|Cosmological Wheel]] lore.*

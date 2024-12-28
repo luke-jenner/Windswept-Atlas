@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/tethys/","updated":"2024-12-23T12:39:26.218-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/tethys/","updated":"2024-12-23T11:39:26.218-06:00"}
 ---
 
 - [[World Lore/Primordials/Primordials\|Primordials]], Titan of Rivers & Nursing

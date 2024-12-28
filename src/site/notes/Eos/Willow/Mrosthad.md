@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/mrosthad/","updated":"2024-12-23T20:41:52.264-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/mrosthad/","updated":"2024-12-23T19:41:52.264-06:00"}
 ---
 
 [[Eos/Willow/Mrost Region\|Mrost Region]]

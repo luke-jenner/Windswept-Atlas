@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/pthaleon/","updated":"2024-12-23T21:28:48.081-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/pthaleon/","updated":"2024-12-23T20:28:48.081-06:00"}
 ---
 
 - Capital of the [[Eos/Willow/Pthalo Realm\|Pthalo Realm]] 

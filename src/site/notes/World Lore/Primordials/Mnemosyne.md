@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/mnemosyne/","updated":"2024-12-24T22:32:34.934-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/mnemosyne/","updated":"2024-12-24T21:32:34.934-06:00"}
 ---
 
 Primordial titaness of memory, and a sister of [[World Lore/Primordials/Thassa\|Thassa]]

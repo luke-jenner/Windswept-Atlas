@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/folos-forest/","updated":"2024-12-24T21:06:31.729-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/folos-forest/","updated":"2024-12-24T20:06:31.729-06:00"}
 ---
 
 ![](https://lh7-us.googleusercontent.com/7YNtjwL7iSaufu6Wp_OcXbcrHoN3wov86732y3doOh93U8ioETdGT3NG4kbZrRtSrNPYPW0nLYsaI-In0v5aENMaQEm8Ie0eiUEiviWsJVF3WPrlT2Dqv5exgRnp8D-Wfn5mkokbSE5PukLXCjARUpQ)

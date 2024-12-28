@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/wrench-and-dagger/","updated":"2024-12-24T20:37:42.237-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/wrench-and-dagger/","updated":"2024-12-24T19:37:42.237-06:00"}
 ---
 
 ![wrench and dagger logo.png](/img/user/Images/wrench%20and%20dagger%20logo.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arcane-acquisitions-associated/","updated":"2024-12-23T13:21:03.974-05:00"}
+{"dg-publish":true,"permalink":"/arcane-acquisitions-associated/","updated":"2024-12-23T12:21:03.974-06:00"}
 ---
 
 ![aaa logo 1.png](/img/user/Images/aaa%20logo%201.png)

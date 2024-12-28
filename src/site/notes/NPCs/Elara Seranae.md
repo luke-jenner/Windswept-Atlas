@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/elara-seranae/","updated":"2024-12-24T10:01:19.095-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/elara-seranae/","updated":"2024-12-24T09:01:19.095-06:00"}
 ---
 
 #### Elara Saranae - Elven Twilight Cleric, House of Convalescence

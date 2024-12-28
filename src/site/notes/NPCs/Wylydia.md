@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/wylydia/","updated":"2024-12-24T21:44:38.567-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/wylydia/","updated":"2024-12-24T20:44:38.567-06:00"}
 ---
 
 ![Pasted image 20241223224553.png|300](/img/user/Images/Pasted%20image%2020241223224553.png)

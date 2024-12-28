@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-harpers/","updated":"2024-12-23T21:05:48.403-05:00"}
+{"dg-publish":true,"permalink":"/factions/the-harpers/","updated":"2024-12-23T20:05:48.403-06:00"}
 ---
 
 Adapted from *[The Harpers of the Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Harpers)*.

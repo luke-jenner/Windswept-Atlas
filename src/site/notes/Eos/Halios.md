@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/halios/","updated":"2024-12-24T20:41:28.518-05:00"}
+{"dg-publish":true,"permalink":"/eos/halios/","updated":"2024-12-24T19:41:28.518-06:00"}
 ---
 
 A bastion of civilization in the Ethereal Plane. Serves as a nexus of diplomacy and trade, a repository of histories and secrets, and a thriving sanctuary for those seeking safety or a better life. 

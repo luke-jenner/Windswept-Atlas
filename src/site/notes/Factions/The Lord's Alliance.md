@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-lord-s-alliance/","updated":"2024-12-24T23:02:54.576-05:00"}
+{"dg-publish":true,"permalink":"/factions/the-lord-s-alliance/","updated":"2024-12-24T22:02:54.576-06:00"}
 ---
 
 *Adapted from [The Lord's Alliance from the Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Lords%27_Alliance).*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/the-graeae/","updated":"2024-12-23T09:47:34.051-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/the-graeae/","updated":"2024-12-23T08:47:34.051-06:00"}
 ---
 
 ![Pasted image 20241223084510.png](/img/user/Images/Pasted%20image%2020241223084510.png)

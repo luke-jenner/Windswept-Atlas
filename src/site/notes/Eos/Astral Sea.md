@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-24T21:35:15.992-05:00"}
+{"dg-publish":true,"permalink":"/eos/astral-sea/","updated":"2024-12-24T20:35:15.992-06:00"}
 ---
 
 ![Pasted image 20241224213513.png](/img/user/Images/Pasted%20image%2020241224213513.png)

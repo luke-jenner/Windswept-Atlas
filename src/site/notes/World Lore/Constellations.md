@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/constellations/","updated":"2024-12-24T22:46:37.162-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/constellations/","updated":"2024-12-24T21:46:37.162-06:00"}
 ---
 
 ![Pasted image 20241224224636.png](/img/user/Images/Pasted%20image%2020241224224636.png)

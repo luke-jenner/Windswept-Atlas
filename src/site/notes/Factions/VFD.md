@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2024-12-23T10:42:17.749-05:00"}
+{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2024-12-23T09:42:17.749-06:00"}
 ---
 
 Vanguard of the Forsworn Deities - 3,000 year old secret organization of [[Eos/Flying Cities of the First Age/Archon\|Archon]] survivors 

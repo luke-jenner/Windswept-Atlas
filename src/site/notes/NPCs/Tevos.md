@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/tevos/","updated":"2024-12-23T12:02:34.972-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/tevos/","updated":"2024-12-23T11:02:34.972-06:00"}
 ---
 
 ![Pasted image 20241222213334.png|325](/img/user/Images/Pasted%20image%2020241222213334.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/calendar/","updated":"2024-12-22T23:01:04.224-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/calendar/","updated":"2024-12-27T12:57:22.335-06:00"}
 ---
 
 ## 12 Month Calendar
@@ -18,8 +18,8 @@ Annual Holiday: Greengrass / Renewal Festival
 	5 Mirtula - Deep Solace (Moradin)
 6- Kythorn - The Time of Flowers
 7 - Flamerule - Summertide
-Annual Holiday: Midsummer / Elvendawn (Corellon)
-Annual Holiday: Shieldmeet/HighSummer (Pelor)
+Annual Holiday: Midsummer / [[World Lore/Elvendawn\|Elvendawn]] (Corellon)
+Annual Holiday: [[World Lore/Shieldmeet\|Shieldmeet]]/HighSummer (Pelor)
 8 - Eleasis - Highsun
 9 - Elient - The Fading
 Annual Holiday: Highharvestide / Night of Ascension (The Raven Queen)

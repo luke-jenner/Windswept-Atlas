@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/cosmological-wheel/","updated":"2024-12-24T22:18:56.475-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/cosmological-wheel/","updated":"2024-12-24T21:18:56.475-06:00"}
 ---
 
 *Adapted from the Cosmological Wheel of the Forgotten Realms.*

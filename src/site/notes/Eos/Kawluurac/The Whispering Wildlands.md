@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/the-whispering-wildlands/","updated":"2024-12-23T20:36:04.770-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/the-whispering-wildlands/","updated":"2024-12-23T19:36:04.770-06:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

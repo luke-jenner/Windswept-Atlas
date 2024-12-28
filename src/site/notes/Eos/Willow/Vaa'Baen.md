@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/vaa-baen/","updated":"2024-12-23T21:20:47.807-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/vaa-baen/","updated":"2024-12-23T20:20:47.807-06:00"}
 ---
 
 ![Pasted image 20241223212044.png](/img/user/Images/Pasted%20image%2020241223212044.png)

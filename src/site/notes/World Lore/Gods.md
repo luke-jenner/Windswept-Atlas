@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T23:26:35.063-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/gods/","updated":"2024-12-24T22:26:35.063-06:00"}
 ---
 
 *Largely using existing canon of [D&D gods of Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon#Members) in tandem with [Critical Role's Exandria Pantheon](https://criticalrole.fandom.com/wiki/Deity), with home-brewed adaptations.*

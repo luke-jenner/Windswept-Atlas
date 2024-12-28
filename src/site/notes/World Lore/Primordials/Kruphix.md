@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/kruphix/","updated":"2024-12-24T22:31:37.961-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/kruphix/","updated":"2024-12-24T21:31:37.961-06:00"}
 ---
 
 Primordial/Aeon of the Horizons 

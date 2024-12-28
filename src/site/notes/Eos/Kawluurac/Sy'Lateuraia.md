@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/sy-lateuraia/","updated":"2024-12-22T20:34:11.810-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/sy-lateuraia/","updated":"2024-12-22T19:34:11.810-06:00"}
 ---
 
 (The Crescent Wilds) [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

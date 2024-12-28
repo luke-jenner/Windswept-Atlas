@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/willow/willow/","updated":"2024-12-23T21:03:08.216-05:00"}
+{"dg-publish":true,"permalink":"/eos/willow/willow/","updated":"2024-12-23T20:03:08.216-06:00"}
 ---
 
 [[Eos/Willow/Willow (Continent)\|Willow (Continent)]]

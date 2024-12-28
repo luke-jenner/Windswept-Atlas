@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/master-soro/","updated":"2024-12-23T22:48:37.526-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/master-soro/","updated":"2024-12-23T21:48:37.526-06:00"}
 ---
 
 ![Pasted image 20241223084126.png|550](/img/user/Images/Pasted%20image%2020241223084126.png)

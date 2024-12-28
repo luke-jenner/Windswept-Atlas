@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/c2-npc-index/","updated":"2024-12-23T10:42:46.237-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/c2-npc-index/","updated":"2024-12-23T09:42:46.237-06:00"}
 ---
 
 #### [[World Lore/The Moonspear\|The Moonspear]]
@@ -39,7 +39,7 @@ Kelven - firbolg vagabond, “making dreams come to life”
 
 Dodmer, Shuge, Bradymuck, & Ghanyi - svirfneblin craftsfolk, left Zanzarite
 
-#### [[Seirína\|Seirína]]
+#### [[Eos/Ellesion/Seirína\|Seirína]]
 - Jinvis - half-elf watchman of The Aspída
 
 #### “Court Arcanum”

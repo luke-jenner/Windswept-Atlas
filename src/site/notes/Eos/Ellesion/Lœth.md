@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-24T21:08:17.030-05:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/loeth/","updated":"2024-12-24T20:08:17.030-06:00"}
 ---
 
 (Luh-th)

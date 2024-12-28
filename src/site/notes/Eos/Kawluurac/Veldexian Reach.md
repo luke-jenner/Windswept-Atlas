@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-24T21:27:40.261-05:00"}
+{"dg-publish":true,"permalink":"/eos/kawluurac/veldexian-reach/","updated":"2024-12-24T20:27:40.261-06:00"}
 ---
 
 [[Eos/Kawluurac/Kawluurac\|Kawluurac]]

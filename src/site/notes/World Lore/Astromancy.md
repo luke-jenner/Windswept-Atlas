@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/astromancy/","updated":"2024-12-22T23:51:02.564-05:00"}
+{"dg-publish":true,"permalink":"/world-lore/astromancy/","updated":"2024-12-22T22:51:02.564-06:00"}
 ---
 
 Origins of magic - spells as [[World Lore/Constellations\|Constellations]] of stars in the weave 

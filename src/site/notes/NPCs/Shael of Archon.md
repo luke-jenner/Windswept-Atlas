@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/shael-of-archon/","updated":"2024-12-24T21:43:38.720-05:00"}
+{"dg-publish":true,"permalink":"/np-cs/shael-of-archon/","updated":"2024-12-24T20:43:38.720-06:00"}
 ---
 
 - Deceased First Age Arcanist from [[Eos/Flying Cities of the First Age/Archon\|Archon]]

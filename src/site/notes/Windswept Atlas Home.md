@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-24T21:55:30.783-05:00"}
+{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-24T20:55:30.783-06:00"}
 ---
 
 ![Pasted image 20241222220504.png](/img/user/Images/Pasted%20image%2020241222220504.png)
