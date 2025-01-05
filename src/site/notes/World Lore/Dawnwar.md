@@ -6,7 +6,7 @@
 ![Pasted image 20241224223504.png](/img/user/Images/Pasted%20image%2020241224223504.png)
 In written histories, the event marking the end of the Dawn Era and the beginning of the First Age. Estimated ~27,000 P.B.R.
 
-A war fought between the [[World Lore/Gods\|Gods]] and the [[World Lore/Primordials/Primordials\|Primordials]] for dominion over all of ethereal existence. Said to have taken place in the [[Eos/Astral Sea\|Astral Sea]]. 
+A war fought between the [[World Lore/Gods/Gods\|Gods]] and the [[World Lore/Primordials/Primordials\|Primordials]] for dominion over all of ethereal existence. Said to have taken place in the [[Eos/The Cosmological Wheel/Astral Sea\|Astral Sea]]. 
 
 Incited by the Primordials after shattering the [[World Lore/Lattice of Heaven\|Lattice of Heaven]], creating what is now the [[World Lore/Cosmological Wheel\|Cosmological Wheel]]. 
 

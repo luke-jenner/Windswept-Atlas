@@ -3,7 +3,7 @@
 ---
 
 #### Elara Saranae - Elven Twilight Cleric, House of Convalescence
-- Clerical staff at House of Convalescence in [[Eos/Halios\|Halios]]
+- Clerical staff at House of Convalescence in [[Eos/The Cosmological Wheel/Halios\|Halios]]
 Shoulder length silver hair with deep red layers, sharp eyes and facial features with an empathetic gaze - flowing robes of predominantly crimson, luminescent thread, a circlet on her head with a seven-pointed star
 
 - Basic healing powers

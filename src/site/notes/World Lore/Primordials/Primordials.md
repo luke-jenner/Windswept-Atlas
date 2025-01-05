@@ -3,7 +3,7 @@
 ---
 
 - Primordials, or Titans, existed before the Dawn Age, likely spawned by Primordial Chaos
-- Gave birth to [[World Lore/Gods\|Gods]]
+- Gave birth to [[World Lore/Gods/Gods\|Gods]]
 - Ruled over ethereal existence for a time before the [[World Lore/Dawnwar\|Dawnwar]]
 - Destroyed the [[World Lore/Lattice of Heaven\|Lattice of Heaven]], inciting the [[World Lore/Dawnwar\|Dawnwar]] ~27,000 P.B.R.
 - Were destroyed & banished by their children

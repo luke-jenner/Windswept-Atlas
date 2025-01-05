@@ -15,4 +15,4 @@ Before time, a figure that fashioned the living etherborn from the weave itself
 Created the first divine artisan - Nykthos - and ordered him to build altars to the gods according to the stars
 	As told in the [[World Lore/Apocrypha\|Apocrypha]]
 
-These altars are fabeled to have been pillars, connecting the corporeal to the ethereal, allowing the first [[World Lore/Gods\|Gods]] to ascend
+These altars are fabeled to have been pillars, connecting the corporeal to the ethereal, allowing the first [[World Lore/Gods/Gods\|Gods]] to ascend

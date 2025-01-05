@@ -4,7 +4,7 @@
 
 #### Jocen - Satyr Barkeep at the Sojurn, Poet and Artist
 ![Pasted image 20241223232033.png|425](/img/user/Images/Pasted%20image%2020241223232033.png)
-- Bartender at The Sojurn on [[Eos/Halios\|Halios]]
+- Bartender at The Sojurn on [[Eos/The Cosmological Wheel/Halios\|Halios]]
 
 Satyr - coat of black fur that shimmers in the astral light of Halios, complimented by pale skin - expressive, hazel eyes beneath a very asymmetrical haircut - buzzed sides, lopsided hanging bangs with what would be a mullet currently tied back into a messy bun
 

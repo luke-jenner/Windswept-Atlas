@@ -4,7 +4,7 @@
 
 ![Pasted image 20241223224615.png](/img/user/Images/Pasted%20image%2020241223224615.png)
 - Half-elven astromancer
-- Apprentice to [[NPCs/Wylydia\|Wylydia]] at the Starlight Sanctuaries in [[Eos/Halios\|Halios]]
+- Apprentice to [[NPCs/Wylydia\|Wylydia]] at the Starlight Sanctuaries in [[Eos/The Cosmological Wheel/Halios\|Halios]]
 - Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R., on their arrival to Halios
 - Currently traveling aboard  [[World Lore/The Moonspear\|The Moonspear]] as researcher
 

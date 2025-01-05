@@ -5,7 +5,7 @@
 ![Pasted image 20241224224836.png](/img/user/Images/Pasted%20image%2020241224224836.png)
 "Tears of the Gods" - or Fallen Angels
 
-Shards from the Eternal Comet ([[Eos/Halios\|Halios]]) or other comets in the Ethereal Plane that crossed as meteors into the Material Plane
+Shards from the Eternal Comet ([[Eos/The Cosmological Wheel/Halios\|Halios]]) or other comets in the Ethereal Plane that crossed as meteors into the Material Plane
 
 •Chorsite - Purple - Gatestones/Telporting
 •Brunestone - Blue - Flight & Ether Absorption

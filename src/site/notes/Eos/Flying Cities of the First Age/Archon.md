@@ -6,7 +6,7 @@ A Flying City over [[Eos/Ellesion/Ellesion\|Ellesion]] in the First Age. Rivaled
 
 Most likely rose from what is currently Tafos Lake in the Folos Forest
 
-Archons set out on an Ethereal Conquest, building cities in the Ethereal Plane such  as [[Eos/Halios\|Halios]] while keeping their discovery a secret from the rival flying cities ([[Netharis\|Netharis]]). Eventually, the ambition of the Archons stirred betrayals & spilt secrets as the gates to the Ethereal Plane were open. 
+Archons set out on an Ethereal Conquest, building cities in the Ethereal Plane such  as [[Eos/The Cosmological Wheel/Halios\|Halios]] while keeping their discovery a secret from the rival flying cities ([[Netharis\|Netharis]]). Eventually, the ambition of the Archons stirred betrayals & spilt secrets as the gates to the Ethereal Plane were open. 
 
 An elite order of Archons sought to bring Law & Light to Chaos - using "Fires of Amaunator" to forge blades of the sun ([[Dawnbringer\|Dawnbringer]])
 

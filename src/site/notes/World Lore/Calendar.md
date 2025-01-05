@@ -29,7 +29,7 @@ Annual Holiday: The Feast of the Moon
 12 - Nightal - The Drawing Down
 ## Astrological Calendar (WIP)
 
-With correlating [[World Lore/Gods\|Gods]] and [[World Lore/Constellations\|Constellations]]
+With correlating [[World Lore/Gods/Gods\|Gods]] and [[World Lore/Constellations\|Constellations]]
 #### **Hammer – Deepwinter**
 - **Dates:** Hammer 1–15 = _The Hermit_ (Solus Major)
 - **Dates:** Hammer 16–30 = _The Tower_ (Tempastas Castellum - Kord)

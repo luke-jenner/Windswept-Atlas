@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2024-12-24T20:55:30.783-06:00"}
+{"dg-publish":true,"permalink":"/windswept-atlas-home/","tags":["gardenEntry"],"updated":"2025-01-05T12:56:55.792-06:00"}
 ---
 
 ![Pasted image 20241222220504.png](/img/user/Images/Pasted%20image%2020241222220504.png)
@@ -12,6 +12,7 @@ To navigate, use the side-bar to the left or the search bar above.
 - [AAA Player Folder](https://drive.google.com/drive/folders/1h7AzJZ2Wgqt7MVjc8zdvR9h1xCZvnepk?usp=drive_link), including C2 maps, stats, and more.
 - [C2 Campaign Log](https://docs.google.com/document/d/1_FmRM24L4DgybyEMHTODrN5A18BsP9FnoZsTY3IGHLM/edit?usp=drive_link), including linked session recordings. 
 - [[NPCs/*C2 NPC Index\|*C2 NPC Index]], listing NPCs w/ short descriptions.
+- [[Eos/*C2 Location Index\|*C2 Location Index]], listing locations visited by AAA
 - [Copy's Family Player folder](https://drive.google.com/drive/folders/1mF8wWxFuJaVAOGqJOEIQKHgvMx14na_x?usp=drive_link), including C1 maps, stats, and more.
 - [C1 Campaign Log](https://docs.google.com/document/d/1a-_ZANhiTOuuXzRcYax6bL-IIHH1qneu7XWjSAhY0Wg/edit?usp=drive_link), including linked session recordings.
 
@@ -19,7 +20,7 @@ To navigate, use the side-bar to the left or the search bar above.
 (Start of Campaign 2 - Tarsahk, 2023 B.R.)
 ### The First Age
 
-Eos - the Known World - is in its Third Age. With millenia of history, popular legends and fables of the numerous faiths indicate that at the beginning of the First Age, a pantheon of higher gods defeated the tyrannical primordials that came before them and brought freedom to mortals across the Prime Material Plane. For millenia, the [[World Lore/Gods\|gods]] saw over the mortals, though as the various species developed cities and technologies of their own, gods eventually spent less time in the material plane and more time in their divine domains. Now independent, the mortal species began harnessing magical capabilities bestowed by the Ethereal Weave.
+Eos - the Known World - is in its Third Age. With millenia of history, popular legends and fables of the numerous faiths indicate that at the beginning of the First Age, a pantheon of higher gods defeated the tyrannical primordials that came before them and brought freedom to mortals across the Prime Material Plane. For millenia, the [[World Lore/Gods/Gods\|Gods]] saw over the mortals, though as the various species developed cities and technologies of their own, gods eventually spent less time in the material plane and more time in their divine domains. Now independent, the mortal species began harnessing magical capabilities bestowed by the Ethereal Weave.
 
 In time, through arcane powers the races built floating city-states, of which rose various empires - alliances of nigh-invincible nations of magic and wonders, dominating the ground-continents across the Starred Sea. As the hubris of the arcane cities expanded, as did their hostility and strife with one another - each in an arms race, attempting to usurp the roles of the gods. Arcane Wars began, as did the struggles of divinity, ushering in a time of chaos. Inevitably, the incited disruption sent the flying cities crashing to the ground bringing an end to great empires. In the aftermath, diaspora and feudal wars ensued across the now-Starfallen Sea.
 

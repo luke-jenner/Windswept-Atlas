@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/factions/horizon-guard/","updated":"2024-12-23T19:56:12.723-06:00"}
 ---
 
-Headquartered on [[Eos/Halios\|Halios]] at the Palace of Exile
+Headquartered on [[Eos/The Cosmological Wheel/Halios\|Halios]] at the Palace of Exile
 
 Search and Rescue force of Halios
 

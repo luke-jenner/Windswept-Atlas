@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20241223224553.png|300](/img/user/Images/Pasted%20image%2020241223224553.png)
-- [[World Lore/Etherborn\|Etherborn]] Professor at the Starlight Sanctuaries in [[Eos/Halios\|Halios]]
+- [[World Lore/Etherborn\|Etherborn]] Professor at the Starlight Sanctuaries in [[Eos/The Cosmological Wheel/Halios\|Halios]]
 - Met [[Arcane Acquisitions Associated\|AAA]] in Mirtul of 2023 B.R., on their arrival to Halios
 - Instructor of [[NPCs/Meywen\|Meywen]]
 

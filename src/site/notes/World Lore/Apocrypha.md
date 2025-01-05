@@ -3,7 +3,7 @@
 ---
 
 - An ancient [[World Lore/Apocrypha\|Apocrypha]] of the Archons ([[Eos/Flying Cities of the First Age/Archon\|Archon]]) wrote that we are ethereal beings - [[World Lore/Etherborn\|Etherborn]] forced into the mortal & material world
-- Taught by [[NPCs/Wylydia\|Wylydia]] in [[Eos/Halios\|Halios]]
+- Taught by [[NPCs/Wylydia\|Wylydia]] in [[Eos/The Cosmological Wheel/Halios\|Halios]]
 
 - We are all cosmic beings
 - The Etherstream - the Weave - is "pure spirit."
@@ -25,7 +25,7 @@
 - The Thesis of this Apocrypha
 	- We are etherbeings, forced into corporeal nature 
 	- We must seek truth and knowledge so that we can ascend back to that ethereal eternity 
-	- The [[World Lore/Gods\|Gods]] are ascended mortals, tighteners of knots in the weave so that they can re-weave it and control it... and therefore are the oppressors. Seeking to distract us. 
+	- The [[World Lore/Gods/Gods\|Gods]] are ascended mortals, tighteners of knots in the weave so that they can re-weave it and control it... and therefore are the oppressors. Seeking to distract us. 
 	- The Archons - the first Transcendents - would need to be the freedom fighters to create the worldly jailbreak from corporeal forms. 
 - Glossary: Celestial Dome of the Archons, dividing constellations into Major Arcana which could be used to ascend ([[World Lore/Constellations\|Constellations]])
 	- Only one individual in known history has done this - The Raven Queen - ascending through the constellation Mors Obitus

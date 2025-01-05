@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20241223224757.png|275](/img/user/Images/Pasted%20image%2020241223224757.png)]
-Met [[Arcane Acquisitions Associated\|AAA]], [[PCs/Eevan\|Eevan]] in Mirtul of 2023 B.R., in their time on [[Eos/Halios\|Halios]] 
+Met [[Arcane Acquisitions Associated\|AAA]], [[PCs/Eevan\|Eevan]] in Mirtul of 2023 B.R., in their time on [[Eos/The Cosmological Wheel/Halios\|Halios]] 
 
 Once a Sage out of Altrinios, now an Undead Warlock.
 	Race is questionable - humanoid, something between an elf and a githyanki

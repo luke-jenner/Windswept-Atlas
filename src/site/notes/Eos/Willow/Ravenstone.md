@@ -6,7 +6,7 @@
 - Crash-site of one of the Fallen Cities
 - Used by the Betrayer Gods as a headquarters during [[World Lore/The Godswar\|The Godswar]], named the island Volinor
 - Last known battlefield of  [[World Lore/The Godswar\|The Godswar]]
-- Site where the Raven Queen ushered her fellow gods past the Divine Gate, into the 'afterlife,' named as such, seen as a gravemarker for the [[World Lore/Gods\|Gods]] in their mortal forms
+- Site where the Raven Queen ushered her fellow gods past the Divine Gate, into the 'afterlife,' named as such, seen as a gravemarker for the [[World Lore/Gods/Gods\|Gods]] in their mortal forms
 
 - Post Godswar, a site of colonial conqueset between [[Eos/Willow/Willow\|Willow]] and [[Eos/Kawluurac/Kawluurac\|Kawluurac]]
 - Under Willowan territory in the 2nd age, site of a constructed [[Factions/Magaron\|Magaron]] Reactor

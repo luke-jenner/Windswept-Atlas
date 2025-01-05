@@ -87,7 +87,7 @@ Salty Copper - Goliath [former] captain of The Mithril Catcher
 - Sithrie & Diana - Drow blackpowder paladin & displacer steed
 - Barmulus - Tiefling wildmagic barbarian
 
-#### [[Eos/Halios\|Halios]]
+#### [[Eos/The Cosmological Wheel/Halios\|Halios]]
 - [[NPCs/Akiyoshi\|Akiyoshi]] - Kitsune Wanderer’s Oracle in Halios
 - [[NPCs/Elara Seranae\|Elara Seranae]] - Elven cleric in House of Convalescense 
 - [[Factions/Horizon Guard\|Horizon Guard]] (Halios)
@@ -134,13 +134,13 @@ Valerian Shadowgale - Emissary of the Raven Queen, hunting [[PCs/Lorn\|Lorn]]
 
 [[NPCs/Raphael\|Raphael]] - human, ex of [[PCs/Bron\|Bron]], wanted for CAPO, claims to be a survivor of [[Factions/VFD\|VFD]]
 
-#### [[Mount Celestia\|Mount Celestia]]
+#### [[Eos/The Cosmological Wheel/Mount Celestia\|Mount Celestia]]
 - Vikentios - Aasimar, friend of the Horizon Guard
 - Comodo White-Eyes - Tiefling boatsman
 - Arael - Sword Angel, in The Underground
 - "Synth" - warforged artificer, in The Underground
 - [[NPCs/Szymon Farlight\|Szymon Farlight]] - Aasimar, Paladin of Bahamut
-- [[NPCs/Tellah\|Tellah]] - Gnomish mentor to [[PCs/Otto\|Otto]], at [[The Skyforge\|The Skyforge]]
+- [[NPCs/Tellah\|Tellah]] - Gnomish mentor to [[PCs/Otto\|Otto]], at [[Eos/The Cosmological Wheel/The Skyforge\|The Skyforge]]
 - Master Smith Aelvar Ironhearth - Dwarf
 - Thalric the Windwalker - Aarakocra messenger, part of the Vaati
 
