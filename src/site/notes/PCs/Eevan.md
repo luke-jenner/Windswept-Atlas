@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/eevan/","updated":"2024-12-27T18:07:59.037-06:00"}
+{"dg-publish":true,"permalink":"/p-cs/eevan/","updated":"2025-01-05T12:42:38.116-06:00"}
 ---
 
 *Played by Jackson, Campaign 2 and Onward.*
-
-
 
 - Human Wizard/Artificer
 - Born ~1993 B.R. in foothills of the Phtalo Relam of [[Eos/Willow/Willow (Continent)\|Willow (Continent)]]
