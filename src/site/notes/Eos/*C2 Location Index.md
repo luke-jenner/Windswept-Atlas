@@ -7,7 +7,7 @@
 - Hallowind, city in [[Eos/Ellesion/The Sky\|The Sky]]
 - Tomb of Shael, in [[Eos/Ellesion/The Sky\|The Sky]]
 - [[Eos/Ellesion/Tripolos\|Tripolos]], along [[Eos/Ellesion/The Skilathos Sea\|The Skilathos Sea]]
-- [[Mine of Koilos\|Mine of Koilos]]
+- [[Eos/Ellesion/Mine of Koilos\|Mine of Koilos]]
 - [[Eos/Ellesion/Néo Fanári\|Néo Fanári]]
 - [[Eos/Ellesion/Seirína\|Seirína]]
 - [[Sunken Temple to Thassa\|Sunken Temple to Thassa]]
