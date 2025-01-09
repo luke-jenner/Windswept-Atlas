@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/primordials/primordials/","updated":"2024-12-24T21:33:01.864-06:00"}
+{"dg-publish":true,"permalink":"/world-lore/primordials/primordials/","updated":"2025-01-09T17:35:15.255-06:00"}
 ---
 
 - Primordials, or Titans, existed before the Dawn Age, likely spawned by Primordial Chaos
@@ -7,7 +7,9 @@
 - Ruled over ethereal existence for a time before the [[World Lore/Dawnwar\|Dawnwar]]
 - Destroyed the [[World Lore/Lattice of Heaven\|Lattice of Heaven]], inciting the [[World Lore/Dawnwar\|Dawnwar]] ~27,000 P.B.R.
 - Were destroyed & banished by their children
-![Primordial Tree.png](app://388cdd4f626ba3343d5bff641314224605e4/Users/LukeJenner/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/AAA/PDFs/Primordial%20Tree.png?1731449385000)
+- 
+
+![Primordial_Tree.png](/img/user/Images/Primordial_Tree.png)
 
 - Phoros - Emperor of Fire & Life
 - [[World Lore/Primordials/Gaia\|Gaia]] - Empress of Earth & Matrons
