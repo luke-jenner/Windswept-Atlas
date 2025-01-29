@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2024-12-23T09:42:17.749-06:00"}
+{"dg-publish":true,"permalink":"/factions/vfd/","updated":"2025-01-29T17:06:33.437-06:00"}
 ---
 
 Vanguard of the Forsworn Deities - 3,000 year old secret organization of [[Eos/Flying Cities of the First Age/Archon\|Archon]] survivors 
@@ -14,3 +14,4 @@ Divided over a schism, at war with each other.
 - "Soric the Dreamwalker"
 - [[NPCs/Arra Freewatcher\|Arra Freewatcher]]
 - "Axionis" the Changeling
+- Poet, the Planar Warden
