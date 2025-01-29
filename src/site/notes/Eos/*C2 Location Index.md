@@ -10,7 +10,7 @@
 - [[Eos/Ellesion/Mine of Koilos\|Mine of Koilos]]
 - [[Eos/Ellesion/Néo Fanári\|Néo Fanári]]
 - [[Eos/Ellesion/Seirína\|Seirína]]
-- [[Sunken Temple to Thassa\|Sunken Temple to Thassa]]
+- [[Eos/Ellesion/Sunken Temple to Thassa\|Sunken Temple to Thassa]]
 - [[Eos/Ellesion/Elpizo\|Elpizo]]
 - [[Villa Newfable\|Villa Newfable]]
 - [[Eos/Ellesion/Nimbus Nexus\|Nimbus Nexus]]

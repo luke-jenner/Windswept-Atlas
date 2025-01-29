@@ -6,7 +6,7 @@
 - Mine outside the now-abandoned settlement of Koilos, between [[Eos/Ellesion/Tripolos\|Tripolos]] and [[Eos/Ellesion/Néo Fanári\|Néo Fanári]] in northern [[Eos/Ellesion/Ellesion\|Ellesion]]
 - Under the ownership of Councilor [[NPCs/Morreus\|Morreus]] of the [[Factions/Triarchy\|Triarchy]]
 - Visited by [[AAA\|AAA]] in Tarsahk of 2023 B.R., while chasing origins of the Sereno Curse
-- Contained demonic scrawls, referencing an oschoc named [[Osarion\|Osarion]], linking to the twisted soul of [[NPCs/Janus\|Janus]]
+- Contained demonic scrawls, referencing an oschoc named [[NPCs/Osarion\|Osarion]], linking to the twisted soul of [[NPCs/Janus\|Janus]]
 - Contained undead, hybrid creatures made of bones
 - Collapsed by Morreus
 - Contained a passageway leading to a cenote in the Psiri district of [[Eos/Ellesion/Néo Fanári\|Néo Fanári]]
