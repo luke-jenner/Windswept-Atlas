@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/ellesion/mount-sinaeus/","updated":"2025-01-05T12:56:06.075-06:00"}
+{"dg-publish":true,"permalink":"/eos/ellesion/mount-sinaeus/","updated":"2025-01-29T19:15:37.891-06:00"}
 ---
 
 ![Pasted image 20250105125605.png](/img/user/Images/Pasted%20image%2020250105125605.png)
@@ -19,7 +19,10 @@
 ## Second Age and Onward
 - Home to many small temples & settlements of devout to the Prime Deities
 - Veiled under the 'Mantle of Fate,' a protection left by the Prime Deities so mortals would not claim earthly ownership over the mountain's power
-
+### Etherpool
+- Located on summit, surrounded by Prime Temples
+- Explored by [[AAA\|AAA]] in Eleasis of 2023 B.R., identifying connection to Shattered Peak in the [[Eos/The Cosmological Wheel/Astral Sea\|Astral Sea]]
+- Under protection of gynosphinx & angels of The Dawnfather
 ### The Obsidian Chapel - Dedicated to The Raven Queen
 - Near the summit, cut into a jagged ridge of the ountain where the cold wind howls like mourning wails
 - A solemn, black stone cathedral
