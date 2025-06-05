@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/aaa-calendar/","updated":"2025-06-04T22:35:39.160-05:00"}
+{"dg-publish":true,"permalink":"/aaa-calendar/","updated":"2025-06-04T22:38:36.240-05:00"}
 ---
 
-## <center>2023 B.R.</center>
+# <center>2023 B.R.</center>
+## <center>Hammer</center>
 
-|  Hammer  | <         | <         | <          | <         | <         | <       | <        | <       | <        |
-| :------: | --------- | --------- | ---------- | --------- | --------- | ------- | -------- | ------- | -------- |
 | Stultari | Magistrae | Princeven | Apollastra | Famularum | Amoranthe | Currion | Leontari | Solitra | Draconel |
+| :------: | --------- | --------- | ---------- | --------- | --------- | ------- | -------- | ------- | -------- |
 |    1     | 2         | 3         | 4          | 5         | 6         | 7       | 8        | 9       | 10       |
 |    11    | 12        | 13        | 14         | 15        | 16        | 17      | 18       | 19      | 20       |
 |    21    | 22        | 23        | 24         | 25        | 26        | 27      | 28       | 29      | 30       |
