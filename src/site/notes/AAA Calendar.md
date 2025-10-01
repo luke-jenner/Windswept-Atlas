@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aaa-calendar/","updated":"2025-08-10T12:48:49.436-05:00"}
+{"dg-publish":true,"permalink":"/aaa-calendar/","updated":"2025-09-30T19:00:44.782-05:00"}
 ---
 
 # <center>2023 B.R.</center>
@@ -74,11 +74,11 @@
 | 21<br>-Arrival at Mount Sinaeus<br>-<font color="#de7802">Panoptic Spire</font> | 22<br>-<font color="#00b0f0">Enter Etherpool @ Mount Sinaeus</font><br>-Astral Sea, meet & race Demion<br>-Sphinx fight w/ Arra & Firestarters | 23<br>-Return to Halios<br>-Arrival in Lœth<br>-Set sail | 24<br>-Return to Tripolos<br>-Teleport to Ravenstone<br>-Meet Lucilio<br>-<font color="#00b0f0">Etherpool at Ravenstone</font> | 25<br>-Enter Etherpool to Shadowfell<br>-Depart, sail Starfallen Sea          | 26<br>-Sailing Starfallen Sea<br>-Meet with Graeae aboard Moonspear | 27<br>- Stormreach recruiting                 | 28<br>-Sail/teleport to Tripolos<br>-Depart for Néo Fanári | 29<br>-Arrival in Néo Fanári | 30<br>-Triarchy Drydock Infiltration                                               |
 ## <center>Elient</center>
 
-|                           Stultari                           | Magistrae                       | Princeven                    | Apollastra                 | Famularum                                 | Amoranthe               | Currion                            | Leontari | Solitra | Draconel |
-| :----------------------------------------------------------: | ------------------------------- | ---------------------------- | -------------------------- | ----------------------------------------- | ----------------------- | ---------------------------------- | -------- | ------- | -------- |
-| <p align="justify">1<br>-Villa Draiochta w/ TCA9</p><br><br> | 2<br>-Downtime in Velde Aerdrie | 3<br>-Chaos in Velde Aerdrie | 4<br>-Sailing to Skilathos | 5<br>-Sailing Skilathos/Passing Votan<br> | 6<br>-Sailing Skilathos | 7<br>-Early AM Piracy<br>-Tripolos | 8        | 9       | 10       |
-|                                                              | 12                              | 13                           | 14                         | 15                                        | 16                      | 17                                 | 18       | 19      | 20       |
-|                              21                              | 22                              | 23                           | 24                         | 25                                        | 26                      | 27                                 | 28       | 29      | 30       |
+|                           Stultari                           | Magistrae                       | Princeven                           | Apollastra                 | Famularum                                 | Amoranthe               | Currion                            | Leontari                        | Solitra            | Draconel                       |
+| :----------------------------------------------------------: | ------------------------------- | ----------------------------------- | -------------------------- | ----------------------------------------- | ----------------------- | ---------------------------------- | ------------------------------- | ------------------ | ------------------------------ |
+| <p align="justify">1<br>-Villa Draiochta w/ TCA9</p><br><br> | 2<br>-Downtime in Velde Aerdrie | 3<br>-Chaos in Velde Aerdrie        | 4<br>-Sailing to Skilathos | 5<br>-Sailing Skilathos/Passing Votan<br> | 6<br>-Sailing Skilathos | 7<br>-Early AM Piracy<br>-Tripolos | 8<br>-Elpizo stop to see Ioanna | 9<br>Night in Lœth | 10<br>Travelling through Folos |
+|                    11<br>Camping in Folos                    | 12<br>Camping in Folos          | 13<br>Tafos Lake vs Brimstone Coven | 14                         | 15                                        | 16                      | 17                                 | 18                              | 19                 | 20                             |
+|                              21                              | 22                              | 23                                  | 24                         | 25                                        | 26                      | 27                                 | 28                              | 29                 | 30                             |
 
 | High-Harvestide / Night of Ascension | <   |
 | ------------------------------------ | --- |
