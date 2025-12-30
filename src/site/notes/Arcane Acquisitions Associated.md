@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arcane-acquisitions-associated/","updated":"2024-12-23T12:21:03.974-06:00"}
+{"dg-publish":true,"permalink":"/arcane-acquisitions-associated/","updated":"2025-12-30T15:25:18.558-06:00"}
 ---
 
 ![aaa logo 1.png](/img/user/Images/aaa%20logo%201.png)
@@ -13,3 +13,4 @@ An adventuring party founded in 2023 B.R., recognized as active crew of [[World 
 - [[PCs/Gerdi\|Gerdi]] 
 - [[PCs/Lorn\|Lorn Ironclaw]]
 - [[PCs/Venalyn of the Alukiir Seas\|Venalyn of the Alukiir Seas]]
+- Luigi Mangione
