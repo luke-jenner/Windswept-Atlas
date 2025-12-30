@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/the-cosmological-wheel/halios/","updated":"2025-12-30T15:23:25.426-06:00"}
+{"dg-publish":true,"permalink":"/eos/the-cosmological-wheel/halios/","updated":"2025-12-30T15:23:56.747-06:00"}
 ---
 
 A bastion of civilization in the Ethereal Plane. Serves as a nexus of diplomacy and trade, a repository of histories and secrets, and a thriving sanctuary for those seeking safety or a better life. 
@@ -95,7 +95,7 @@ A sect of druids frequently brings injured animals here to be healed and rehabil
 	- Coralblossom (Water)
 
 NPCs: 
-- [[NPCs/Ecken\|Ecken]]
+- [[NPCs/Ecken\|Ecken]] (dwarven groundskeeper)
 - Glemeria (Elven Floramancer)
 - Cogwin (Gnome Artificer)
 - Eldon (Shadar-kai herbalist)
