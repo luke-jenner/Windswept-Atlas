@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eos/the-cosmological-wheel/halios/","updated":"2024-12-24T19:41:28.518-06:00"}
+{"dg-publish":true,"permalink":"/eos/the-cosmological-wheel/halios/","updated":"2025-12-30T15:23:25.426-06:00"}
 ---
 
 A bastion of civilization in the Ethereal Plane. Serves as a nexus of diplomacy and trade, a repository of histories and secrets, and a thriving sanctuary for those seeking safety or a better life. 
@@ -57,7 +57,7 @@ Interior - massive, central hall whose roof, kinda like Great Hall at Hogwarts, 
 
 NPCs: [[NPCs/Rowan\|Rowan]]
 - [[NPCs/Tevos\|Tevos]] & Court Arcanum
-- [[Athena\|Athena]]
+- [[Athena\|Athena]] (aarakocra paladin)
 - Korin Firelaf (halfing ranger)
 - Zara Windweaver (Air Genasi Ranger)
 - Jennawin (Tiefling Warlock)
